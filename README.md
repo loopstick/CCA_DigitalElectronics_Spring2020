@@ -10,52 +10,38 @@
 	* at other times by appointment
 
 #### Goals
-The goal of this class 
-is to teach you how to design, build, and debug digital electronic devices. 
-My goal is to make the course as interesting and relevant as possible for you, 
-so please ask questions and bring up topics you are curious about.
+The goal of this class is to teach you how to design, build, and debug digital electronic devices. My goal is to make the course as interesting and relevant as possible for you, so please ask questions and bring up topics you are curious about.
 
 #### Github and Class Repository
 We will be using a cloud service called Github. Our repository is at
-https://github.com/loopstick/CCADigitalElectronics_Spring2018
+https://github.com/loopstick/CCA_DigitalElectronics_Spring2019
 
-The class repository will be used to assign homework and reading
-assignments, and will contain useful code, libraries, and links to other
-resources. Github allows you to receive email updates when a repository
-changes — take advantage of this feature!
+The class repository will be used to assign homework and reading assignments, and will contain useful code, libraries, and links to other resources. Github allows you to receive email updates when a repository changes — take advantage of this feature!
 
-You will be required to create your own repository for handing in homework and
-for project documentation. 
+You will be required to create your own repository for handing in homework and for project documentation. 
 
 #### Required Textbook
-No textbook is required, but there are many good online references and a
-few good books out there I can recommend. We also have a good assortment of
-books in the library.
+No textbook is required, but there are many good online references and a few good books out there I can recommend. We also have a good assortment of books in the library.
 
 #### Prerequisites
-* Basic algebra. You should be comfortable with simple equations,
-manipulating numbers, fractions, solving for variables, and the
+* Basic algebra. You should be comfortable with simple equations,manipulating numbers, fractions, solving for variables, and the
 engineering prefixes (micro, milli, kilo, mega, etc.)
 * Some understanding of geometry will also be helpful.
 
 #### Requirements and Expectations
-* Always bring your computer to class. If you don’t have a computer,
-check one out from the Media Center. You will need a computer to
-participate, and your grade will be negatively affected if you don’t bring
-one.
+* Always bring your computer to class. If you don’t have a computer, check one out from the Media Center. You will need a computer to
+participate, and your grade will be negatively affected if you don’t bring one.
 * Always bring your Arduino, breadboard, jumper wires, sensors, etc. to class.
-* I recommend keeping a dedicated notebook for this class. Keep 
-your project sketches, schematics, punch lists and class notes in this notebook. 
+* I recommend keeping a dedicated notebook for this class. Keep your project sketches, schematics, punch lists, and class notes in this notebook. You can also scan your notes, sketches, etc and post them in your GitHub repository.
 * Participate in class! Ask questions, guess answers, propose topics,
 share interesting projects you’ve found, push the envelope, explore your
 interests, and teach us all! There are no stupid questions; admitting when
 you don’t know something should be a point of pride. Chances are you’re
 not the only one with a question, just the bravest one. 
-* As outlined in the CCA Student Handbook, attendance in class is mandatory and three or
+* As outlined in the CCA Student Handbook, attendance in class is mandatory. Three or
 more unexcused absences will result in a failing grade.
-* Plan to spend 3-12 hours a week on homework. If you don’t have a
-solid foundation in math you may need more time. Plan ahead!
-* Submit your homework on time.  Write clearly and legibly. Attend class, and
+* Plan to spend 3-12 hours a week on homework. Plan ahead!
+* Submit your homework on time.  Organize your GitHub repository to be easy to navigate. Attend class, and
 don’t be late. These are not requests, these are requirements.
 * You are responsible for checking your email and the class repository
 for updates.
@@ -556,32 +542,8 @@ __The schedule is subject to change__
 
 
 ## Student Repositories
-CCA_DigitalElec_Spring2018 GitHub Repositories
+CCA DigitalElec Spring2019 GitHub Repositories
 
-Annika - https://github.com/abastacky/Digital-Electronics
 
-Lingyin - https://github.com/lingyindu/hw
-
-Becca - https://github.com/BeccaHa/Digits2018
-
-Jiahao - https://github.com/PlusWhy/Digital-Electronics
-
-Ricardo - https://github.com/hernandezpra/digitalelectronics
-
-Yang - https://github.com/yang2017liu
-
-Jillian - https://github.com/JinghanLuo/DigitalElectronics
-
-Anna - https://github.com/annasong93/DigitalElectronics
-
-Shuo - https://github.com/ShuoCCA/Digital_hw1
-
-Yao - https://github.com/YaoMaker
-
-Mingke - https://github.com/MikoYu/DigitalElectronics_S18_Mingke
-
-Taeyoung - https://github.com/TaeyoungYun49/arduino_2018
-
-Huizhong - https://github.com/zhz1208/Digital-Electronics
 
 
