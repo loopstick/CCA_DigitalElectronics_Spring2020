@@ -128,6 +128,7 @@ projects you make want to work on in the future!
 	[Adafruit](https://www.adafruit.com/products/50)) or
 	[Sparkfun](https://www.sparkfun.com/products/11021) or
 	[Jameco](https://www.jameco.com/z/A000066-Arduino-Arduino-Uno-R3-DIP-Edition-Revision-3-_2151486.html)
+	
 	Must be the real thing, not be a clone or a compatible. 
 	Do not order from Amazon or Ebay.
 - Solderless breadboard, full size (also known as 830 tie point) e.g. from
