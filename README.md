@@ -134,6 +134,7 @@ __The schedule is subject to change__
 - Review schedule and syllabus: <https://github.com/loopstick/CCA_DigitalElectronics_Spring2019/>
 - Lecture
   - Electronics Basics
+    - circuits: complete, open, closed, and short
     - water analogy
     - voltage, current, resistance, and power
     - metric prefixes
@@ -154,34 +155,29 @@ __The schedule is subject to change__
   - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
   - Lecture
     - Ohm's Law
-      - https://itp.nyu.edu/physcomp/videos/videos-electricity/
       - https://www.youtube.com/watch?v=-mHLvtGjum4   
-    - [Electronic components](https://www.dropbox.com/s/9xceo0o2cbluge0/DrSudhu_ElecComponents_v2.pdf?dl=0) 
-      - Ohm's Law, Voltage, Current, and Power
- 	- https://itp.nyu.edu/physcomp/videos/videos-electricity/
-  
+      - https://itp.nyu.edu/physcomp/videos/videos-electricity/    
+    - [Electronic components PDF](https://www.dropbox.com/s/9xceo0o2cbluge0/DrSudhu_ElecComponents_v2.pdf?dl=0) 
+    - Sensors!
+
   - Hands-on activity:
-    - soldering practice - solder wires to speaker inputs
-    - Making sounds with Tone
-      - [theremin example](https://github.com/loopstick/CCADigitalElectronics_Spring2018/tree/master/examples/TONE/Theremin)
-        - note: the tone() function can be used either with or without a duration
-        - note: Arduino always needs the code (the .ino file) to be in a subfolder of the same name 
-      - more Arduino Tone Resources in [resources](https://github.com/loopstick/ResourcesForClasses).
-  - look ahead: Multitasking
+    - LED and LDR example from the Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md)
     - Analog Input (File->Examples->Analog->AnalogInput)
+
+  - look ahead: Multitasking
     - Blink Without Delay (File->Examples->Digital->BlinkWithoutDelay)
     - Conditionals
     - Complex interactions
     - Example
       - AnalogInput modified to work without using delay():
       [AnalogInputWithoutDelay](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/AnalogReadWithoutDelay/AnalogReadWithoutDelay.ino)
+      
   - *Homework:*
     - Read __all four__ of the Multitasking Resources in [resources](https://github.com/loopstick/ResourcesForClasses).
     - Find (online) an Arduino project that you find interesting. 
       - Write a brief description and put a link in the README.md file in your Github repository. 
       - remember I've posted gitHub resources at the bottom/end of [class resources](https://github.com/loopstick/ResourcesForClasses).	
-    - Read about **3** of the sensors on the [Adafruit Sensors guide](http://www.ladyada.net/learn/sensors/) listed in
-		[resources](https://github.com/loopstick/ResourcesForClasses).
+    - Read about sensors in the [Adafruit Sensors guide](http://www.ladyada.net/learn/sensors/) listed in [resources](https://github.com/loopstick/ResourcesForClasses). Or google " arduino sensors" and see what you find!
       - Describe (briefly) what you've learned in your Github READ.md file.
 
 
@@ -189,13 +185,7 @@ __The schedule is subject to change__
 ## INPUT: Sensors and multi-tasking
 - Homework review
 - Hands-on activity: Making sound without Arduino
-	- Basic 40106 (hex Schmitt trigger inverter)
-		[oscillator](http://fluxmonkey.com/electronoize/40106Oscillator.htm)
-	- Basic 555 Oscillator
-	  - [Jameco 555 Tutorial](https://www.jameco.com/Jameco/workshop/TechTip/555-timer-tutorial.html)
-	  - [555 tutorial: Astable & Bistable](https://www.electronics-tutorials.ws/waveforms/555_timer.html)
-	  - Peter Vogel: [Sound of Shadows](https://vimeo.com/59829961) - analog electronics with sensors - No Arduino!
-	- Sensors
+
 - *Homework:*
 	- Propose a device _that does something_ "interesting". 
 	The assignment was previously to design a _creative experimental musical instrument_.
