@@ -247,6 +247,9 @@ __The schedule is subject to change__
       - [Sparkfun: How to use a Multimeter](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter)
     - troubleshooting basics
       - [Troubleshooting](https://www.arduino.cc/reference/en/language/functions/communication/serial/print/)
+    - Input and Output ranges
+      - math and scaling
+      - potentiometers
 - Hands-on activity: 
   - Debugging techniques
     - Compiling vs. uploading
