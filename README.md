@@ -1,4 +1,4 @@
-## Digital Electronics at California College of the Arts, Spring 2018
+## Digital Electronics at California College of the Arts, Spring 2019
 
 ### Syllabus
 
@@ -128,8 +128,8 @@ trade with other students (or the larger maker community) for parts that you do 
 ### Schedule
 __The schedule is subject to change__
 
-### Week 1: Thursday, January 24, 2018
-## Introductions: Administravia and Introduction to Arduino
+### Week 1: Thursday, January 24, 2019
+## Introductions: Administravia and Arduino
 - Interests and goals
 - Review schedule and syllabus: <https://github.com/loopstick/CCA_DigitalElectronics_Spring2019/>
 - Lecture
@@ -149,21 +149,36 @@ __The schedule is subject to change__
   - Order the required equipment so you can have your very own Arduino, breadboard, etc.
   - Create your Github repository using [this guide](https://github.com/zamfi/github-guide) and email me the URL to your repository (stewari@cca.edu)
 
-### Week 2: Thursday, January 31, 2018
-## OUTPUT: Tone and Basic Electronics
+### Week 2: Thursday, January 31, 2019
+## OUTPUT: Ohm's Law and Electronic Components
   - Review schedule
   - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
   - Lecture
     - Ohm's Law
       - https://www.youtube.com/watch?v=-mHLvtGjum4   
-      - https://itp.nyu.edu/physcomp/videos/videos-electricity/    
-    - [Electronic components PDF](https://www.dropbox.com/s/9xceo0o2cbluge0/DrSudhu_ElecComponents_v2.pdf?dl=0) 
-    - Sensors!
-
+      - https://itp.nyu.edu/physcomp/videos/videos-electricity/   
+    - Electronic Components: [Lecture PDF](https://www.dropbox.com/s/9xceo0o2cbluge0/DrSudhu_ElecComponents_v2.pdf?dl=0) 
+    - Voltage dividers: potentiometers and LDRs
+      - multimeter demo 
   - Hands-on activity:
     - LED and LDR example from the Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md)
     - Analog Input (File->Examples->Analog->AnalogInput)
-
+    
+  - Demonstration
+    - High Current control (Motors or _lots_ of LEDs)
+      - Transistors
+      - Power supplies
+      - Arduino architecture: Vin vs 5v  regulated power
+      
+  - *Homework:*
+    - Read __all four__ of the [Multitasking Resources](https://github.com/loopstick/ResourcesForClasses#arduino-multitasking-resources-how-to-blink-an-led-without-using-delay) in [resources](https://github.com/loopstick/ResourcesForClasses).
+    - Find (online) an Arduino project that you find interesting. 
+      - Write a brief description and put a link in the README.md file in your Github repository. 
+      - remember I've posted gitHub resources at the bottom/end of [class resources](https://github.com/loopstick/ResourcesForClasses).
+    - CODE CHALLENGE: make something interesting happen using an LDR and an LED.
+      - use an LDR to sense your shadow, so that the LED fades on when your shadow falls on the sensor.
+      - make the LED turn off when your shadow falls on the LDR
+      
   - look ahead: Multitasking
     - Blink Without Delay (File->Examples->Digital->BlinkWithoutDelay)
     - Conditionals
@@ -171,26 +186,21 @@ __The schedule is subject to change__
     - Example
       - AnalogInput modified to work without using delay():
       [AnalogInputWithoutDelay](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/AnalogReadWithoutDelay/AnalogReadWithoutDelay.ino)
-      
-  - *Homework:*
-    - Read __all four__ of the Multitasking Resources in [resources](https://github.com/loopstick/ResourcesForClasses).
-    - Find (online) an Arduino project that you find interesting. 
-      - Write a brief description and put a link in the README.md file in your Github repository. 
-      - remember I've posted gitHub resources at the bottom/end of [class resources](https://github.com/loopstick/ResourcesForClasses).	
-    - Read about sensors in the [Adafruit Sensors guide](http://www.ladyada.net/learn/sensors/) listed in [resources](https://github.com/loopstick/ResourcesForClasses). Or google " arduino sensors" and see what you find!
-      - Describe (briefly) what you've learned in your Github READ.md file.
 
 
-### Week 3: Thursday, February 7, 2018
+### Week 3: Thursday, February 7, 2019
 ## INPUT: Sensors and multi-tasking
 - Homework review
-- Hands-on activity: Making sound without Arduino
-
+  - sensors
+  - Arduino projects
+- lecture
+  - multi-tasking
+  - Blink without Delay
+- Hands-on activity: 
+  - Blink without Delay: Turn LEDs on and off without using delay!!
+  - poll a sensor continually while performing other tasks
 - *Homework:*
-	- Propose a device _that does something_ "interesting". 
-	The assignment was previously to design a _creative experimental musical instrument_.
-	I've decided to give you more freedom this sermester so you can apply the project to your specific interests.
-	Your assignment is to build a _device that does something_.
+	- Propose a device for your midterm project _that does something_ "interesting". 
 	We will discuss project ideas in class and you can always email me if you need help deciding what to do.
 	At minimum your project should make use of **TWO input sensors** and **TWO kinds of output**.
 	  - Deliver the following in your Github repository:
@@ -205,17 +215,44 @@ __The schedule is subject to change__
 	  - Don't forget that there is a Github cheat sheet in the section of 
 	[Github resources](https://github.com/loopstick/ResourcesForClasses#github-resources) in our
 	[resources](https://github.com/loopstick/resourcesForClasses) repository
+	- Do some research to find 3 sensors that interest you
+	  - look at:
+	     - Adafruit's sensors (https://www.adafruit.com/category/35)
+	     - Sparkfun sensors (https://www.sparkfun.com/categories/23?page=all)
+	  - google " arduino sensors" and see what you find!
+	  - Read about a few common sensors in the [Adafruit Sensors guide](http://www.ladyada.net/learn/sensors/) 
+          - Describe (briefly) what you've learned in your Github READ.md file.
 
-### Week 4: Thursday, February 14, 2018
-- Review proposals
+### Week 4: Thursday, February 14, 2019
+- Review midterm project proposals
   - Resources for realizing project ideas: 
-  [Sparkfun](https://www.sparkfun.com/), [Adafruit](https://www.adafruit.com/), surplus sellers (
-  [MPJA](https://www.mpja.com/))
-  - "punch list"
+    - [Sparkfun](https://www.sparkfun.com/)
+    - [Adafruit](https://www.adafruit.com/)
+    - Tayda Electronics
+    - BangGood
+    - surplus sellers 
+      - [MPJA](https://www.mpja.com/)
+      - Electronic Goldmine
+      - Circuit Specialists
+  - ["Punch List"](https://en.wikipedia.org/wiki/Punch_list)
   - [Proof of Concept](https://en.wikipedia.org/wiki/Proof_of_concept) 
   and [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
+- Lecture:
+  - Debugging and troubleshooting
+    - Serial.print
+    - multimeters
+    - troubleshooting basics
 - Hands-on activity: 
-  - TBD
+	- Debugging techniques
+		- Compiling vs. uploading
+		- Syntax error vs. logic error
+		- Using _print_ and _println_
+		- Using the Digital Multimeter
+			- See "debugging in our class [resources](https://github.com/loopstick/resourcesForClasses)
+		- Asking for help
+			- First try to figure it out on your own. Google is great here.
+			- Upload your code to Github
+			- Explain to me (or whoever you are asking) the problem
 - *Homework*
 	- Build a mock-up of a simplified version of your _device that does something_ (previously: musical instrument)
 		- You may modify your proposal to make use of anything new you've learned
@@ -240,20 +277,11 @@ __The schedule is subject to change__
 					program that I use, get it [here](http:fritzing.org)
 
 
-### Week 5: Thursday, February 21, 2018
-- Review Projects
+### Week 5: Thursday, February 21, 2019
+- Review midterm project ideas
 - Hands-on activity: 
-	- Debugging techniques
-		- Compiling vs. uploading
-		- Syntax error vs. logic error
-		- Using _print_ and _println_
-		- Using the Digital Multimeter
-			- See "debugging in our class [resources](https://github.com/loopstick/resourcesForClasses)
-		- Asking for help
-			- First try to figure it out on your own. Google is great here.
-			- Upload your code to Github
-			- Explain to me (or whoever you are asking) the problem
-	- Soldering
+  - work on Midterm Projects!
+  - Soldering
 - Lecture
 	- [Construction Techniques](https://web.archive.org/web/20170723212431/teachmetomake.com/wordpress/construction-techniques)
 - *Homework*
@@ -281,7 +309,7 @@ __The schedule is subject to change__
 	Email me if you have questions!
 	Remember my office hours 3-4 on Thursdays, and at other times if you email me to schedule a time to meet.
 
-### Week 7: Thursday, March 7, 2018
+### Week 7: Thursday, March 7, 2019
 #### Midterm Projects DUE!!
 - Midterm Project presentations and critique
 - Fritzing demonstration
@@ -319,7 +347,7 @@ __The schedule is subject to change__
     - a new project, substantially more complex than the exercises you've done so far.
      
      
-### Week 8: Thursday, March 8, 2018
+### Week 8: Thursday, March 14, 2019
 - Evaluation feedback
   - Documentation and final project proposal review
 - Lecture
@@ -354,7 +382,7 @@ __The schedule is subject to change__
     5. __Due Week 10 (March 29):__ Create a __schematic__ in __Fritzing__ and then create a Printed Circuit Board (PCB) layout of that circuit. The schematic can be of any circuit you wish. Inclusion of Arduino is up to you. If you have no idea, create the first circuit on [this](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) page.
   Wayback archive - https://web.archive.org/web/20170816135325/http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge
 
-### Week 9: Thursday, March 15, 2018
+### Week 9: Thursday, March 21, 2019
 - Homework review
   - Critique proposal concepts
 - Lecture
@@ -394,7 +422,7 @@ __The schedule is subject to change__
 			- Unused variables and statements should be removed
 		- You will be graded on these points
 
-### Spring Break: Thursday, March 22, 2018
+### Spring Break: Thursday, March 28, 2019
 - Research, build mock-ups, test ideas and concepts
   - If you get bored on break:
     - Read the __Classes and Objects__ resources on our [resources](https://github.com/loopstick/resourcesForClasses) page
@@ -414,7 +442,7 @@ __The schedule is subject to change__
       - https://www.arduino.cc/en/Tutorial/Arrays
 
 
-### Week 10: Thursday, March 29, 2018
+### Week 10: Thursday, April 4, 2019
 - Quick project status reports
 - Hybrid Lab workshop tomorrow 
   - NEOPIXEL REVIEW with Sabrina Nassar, FRIDAY Mar 30, 3-5PM
@@ -439,7 +467,7 @@ __The schedule is subject to change__
 	(preferably the part you are most concerned about) 
 	and demonstrate it in class next week
 
-### Week 11: Thursday, April 5, 2018
+### Week 11: Thursday, April 11, 2019
 - Critique working mock-up 
 - *Homework*
 	- Read [Physical Computing’s Greatest Hits (and
@@ -451,13 +479,13 @@ __The schedule is subject to change__
 		- Simplify your project if necessary
 		- If it is too simple you will have one week to add complexity
 
-### Week 12: Thursday, April 12, 2018
+### Week 12: Thursday, April 18, 2019
 - continue working on your project
 
-### Week 13: Thursday, April 19, 2018
+### Week 13: Thursday, April 25, 2019
 - Demonstrate working minimal viable project (MVP)
 
-### Week 14: Thursday, April 26, 2018
+### Week 14: Thursday, May 2, 2019
 - Review end of semester schedule 
 - Review Interface Show spreadsheet
 - Interface Show Plaque
@@ -466,7 +494,7 @@ __The schedule is subject to change__
 - Work, Debug, and get help
 
 ### Homework: Project writeup
-- Project writeup due May 3 at 9am, all on Github
+- Project writeup due May 9 at 9am, all on Github
 	- Describe goals of project briefly
 	- Describe how, from a technical point of view, your choice of hardware
 		and software achieves that goal
@@ -480,11 +508,12 @@ __The schedule is subject to change__
 		- Each section (function, code block, loop, whatever) must be explained
 		- All unused variables and code must be removed (debugging code
 			commented out may remain)
+	- Final Project extra credit: Create an Instructable documenting your project
 
-### Week 15: Thursday, May 3, 2018
-- No class;  End of Year Reviews for Year Zero and Year One
+### Week 15: Thursday, May 9, 2019
+- No class - End of Year Reviews for Year Zero and Year One
 
-## Thursday, May 3, 2018, 9am - Project Writeup due
+## Thursday, May 9, 2019, 9am - Project Writeup due
 
 
 
