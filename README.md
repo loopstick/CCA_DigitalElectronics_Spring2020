@@ -140,6 +140,7 @@ __The schedule is subject to change__
     - metric prefixes
 - Hands-on activity
   - Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md) <https://github.com/loopstick/ArduinoTutorial/blob/master/README.md>
+  - Lady Ada's [Learn Arduino Lesson #0] (https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/intro)
 - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses)<https://github.com/loopstick/ResourcesForClasses>
 - *Homework*
   - Review the Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md) we did in class. 
