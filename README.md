@@ -59,31 +59,32 @@ I will consider the various components of the class in roughly the following pro
 
 #### Grading Rubric
  
-> **A: Excellent.** You’ve exhibited exemplary conceptual, technical and
+**A: Excellent.** You’ve exhibited exemplary conceptual, technical and
 perceptual ability implementing projects. You’ve demonstrated a deft
 understanding of required readings, and ability to successfully
 communicate ideas and processes to others. All work is commented and
 clearly demonstrates understanding of each lesson. 
 
-> **B: Good.** You’ve completed assignments, and demonstrated a grasp of 
+**B: Good.** You’ve completed assignments, and demonstrated a grasp of 
 most of the main aspects of each lesson, but not all. You’re able to
 communicate information, and step by step processes well. In projects,
 conceptual, perceptual, and technical skills are present.
 
-> **C: Satisfactory.** You’ve completed the assignments but may lack
+**C: Satisfactory.** You’ve completed the assignments but may lack
 enthusiasm or drive to push the work into detailed display of
 comprehension. You have not demonstrated comprehensive knowledge of
 the application or programming environment. 
 
-> **D: Unsatisfactory.** You have not completed the work as assigned.
+**D: Unsatisfactory.** You have not completed the work as assigned.
 Substantial problems exist in your work.
 
-> **F: Fail.** You did not submit work, or work is below unsatisfactory level.
+**F: Fail.** You did not submit work, or work is below unsatisfactory level.
 
 
 #### Words of Advice
 Exploration is a key part of this class. You’ll get more out of your work if you give yourself extra time and have patience. Sometimes you’ll hit a dead end and have to start over — don’t despair, it happens to everyone, but give yourself extra time just in case.
 This class should be both fun and intense. It’s most fun when you enjoy what you’re working on, so make a point of taking some time to explore projects you make want to work on in the future!
+
 
 #### Required equipment
 - _Arduino Uno R3__ e.g. from
@@ -109,64 +110,53 @@ fees, but do so immediately so you have the equipment on hand.
 The code ADAEDU may be good for 10% educational discount at Adafruit.  
 
 Local stores that should carry all these are:
-* [Jameco](http://www.jameco.com) in Belmont, just south of the SFO airport
+* [Jameco](http://www.jameco.com) in Belmont, just south of the SFO airport. Order online and pick up same day.
 * [Al Lasher's Electronics](http://allashers.com/) in Berkeley
 * [Fry's Electronics](http://www.frys.com) (various locations in South Bay) has some electronic supplies 
 
 
 #### Optional equipment
-As you develop your projects and interests, you might need to purchase
-additional components and devices. This is impossible to predict as the range
-of projects you might approach are indeed infinite. At the low end, you can
-build amazing projects from discarded electronic devices such as printers at
-absolutely no cost; at the high end there is no limit; a complicated robotic
-project could easily start at hundreds of dollars. 
+As you develop your projects and interests, you might need to purchase additional components and devices. This is impossible to predict as the range of projects you might approach are indeed infinite. At the low end, you can build amazing projects from discarded electronic devices such as printers at absolutely no cost; at the high end there is no limit; a complicated robotic project could easily start at hundreds of dollars. 
 
 #### Some lessons I’ve learned:
 - Projects will cost more than you think they will
 - Projects will take longer than you think they will
-- You will order parts that are wrong or that you simply decide not
-to use. Be ready to accept this. Consider these items you might
-trade with other students (or the larger maker community) for
-parts that you do need, especially when you need that part
-urgently.
-- You will spend less time and money if you are flexible about
-your concept. Allow prototype iterations to modify your
-concept, not just your execution. The reverse is also true:
-If you strongly want to stick to your concept, be prepared to
-spend more time and money. The common way of looking at this
-is to consider that there is a relationship between time,
-money, and features. You can choose any two of them, and the
-third will grow (or shrink) to accommodate.
+- You will order parts that are wrong or that you simply decide not to use. Be ready to accept this. Consider these items you might
+trade with other students (or the larger maker community) for parts that you do need, especially when you need that part urgently.
+- You will spend less time and money if you are flexible about your concept. Allow prototype iterations to modify your concept, not just your execution. The reverse is also true: If you strongly want to stick to your concept, be prepared to spend more time and money. The common way of looking at this is to consider that there is a relationship between time, money, and features. You can choose any two of them, and the third will grow (or shrink) to accommodate.
 
 ### Schedule
 __The schedule is subject to change__
 
 ### Week 1: Thursday, January 24, 2018
-## Introductions: Administravia and Arduino
+## Introductions: Administravia and Introduction to Arduino
 - Interests and goals
+- Review schedule and syllabus: <https://github.com/loopstick/CCA_DigitalElectronics_Spring2019/>
+- Lecture
+  - Electronics Basics
+    - water analogy
+    - voltage, current, resistance, and power
+    - metric prefixes
 - Hands-on activity
-  - Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md)
-  - Making sounds with Tone (_if we get to it_)
-  - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
-	<https://github.com/loopstick/ResourcesForClasses>
+  - Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md) <https://github.com/loopstick/ArduinoTutorial/blob/master/README.md>
+- Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses)<https://github.com/loopstick/ResourcesForClasses>
 - *Homework*
   - Review the Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md) we did in class. 
-    - Read the entire document
-    - Do the sections which we did not do in class. 
-    - Check out any equipment you need from the Hybrid Lab, either to take home or use in the lab.
-  - Order the required equipment to arrive no later than Friday January 27 so
-	that you can complete the homework for week 3.
-  - Create your Github repository using [this guide](https://github.com/zamfi/github-guide)
-  and email me the URL to your repository (stewari@cca.edu)
+    - play around with what you've learned so far!
+  - CODE CHALLENGE: make something interesting happen with 2 or more LEDs
+  - Check out any equipment you need from the Hybrid Lab.
+  - Order the required equipment so you can have your very own Arduino, breadboard, etc.
+  - Create your Github repository using [this guide](https://github.com/zamfi/github-guide) and email me the URL to your repository (stewari@cca.edu)
 
 ### Week 2: Thursday, January 31, 2018
 ## OUTPUT: Tone and Basic Electronics
   - Review schedule
   - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
   - Lecture
-    - Basic Electronics
-      - [Electronic components](https://www.dropbox.com/s/9xceo0o2cbluge0/DrSudhu_ElecComponents_v2.pdf?dl=0) 
+    - Ohm's Law
+      - https://itp.nyu.edu/physcomp/videos/videos-electricity/
+      - https://www.youtube.com/watch?v=-mHLvtGjum4   
+    - [Electronic components](https://www.dropbox.com/s/9xceo0o2cbluge0/DrSudhu_ElecComponents_v2.pdf?dl=0) 
       - Ohm's Law, Voltage, Current, and Power
  	- https://itp.nyu.edu/physcomp/videos/videos-electricity/
   
