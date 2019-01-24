@@ -240,19 +240,28 @@ __The schedule is subject to change__
 - Lecture:
   - Debugging and troubleshooting
     - Serial.print
+      - [Arduino Print](https://www.arduino.cc/en/serial/print)
+      - [Arduino Serial.print](https://www.arduino.cc/reference/en/language/functions/communication/serial/print/)
     - multimeters
+      - [Adafruit Multimeter Overviiew](https://learn.adafruit.com/multimeters?view=all) 
+      - [Sparkfun: How to use a Multimeter](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter)
     - troubleshooting basics
+      - [Troubleshooting](https://www.arduino.cc/reference/en/language/functions/communication/serial/print/)
 - Hands-on activity: 
-	- Debugging techniques
-		- Compiling vs. uploading
-		- Syntax error vs. logic error
-		- Using _print_ and _println_
-		- Using the Digital Multimeter
-			- See "debugging in our class [resources](https://github.com/loopstick/resourcesForClasses)
-		- Asking for help
-			- First try to figure it out on your own. Google is great here.
-			- Upload your code to Github
-			- Explain to me (or whoever you are asking) the problem
+  - Debugging techniques
+    - Compiling vs. uploading
+    - Syntax error vs. logic error
+    - Using _print_ and _println_
+    - Using the Digital Multimeter
+  - See "debugging in our class [resources](https://github.com/loopstick/resourcesForClasses)
+    - Asking for help:
+      - First try to figure it out on your own. 
+        - Google is great here.
+      - Upload your code to Github (or email it)
+        - remember that Arduino .ino files must live in a folder of the same name along with any other associated files, so zips work           well to keep everything together
+        - The file/folder name should make sense (i.e. _"Sudhu_MidtermProj_v3"_ vs _"file_012619"_)
+      - Explain the problem to me (or whoever you are asking) 
+        
 - *Homework*
 	- Build a mock-up of a simplified version of your _device that does something_ (previously: musical instrument)
 		- You may modify your proposal to make use of anything new you've learned
@@ -270,8 +279,8 @@ __The schedule is subject to change__
 			- Remember my office hours 3-3:30 on Thursday, and at other times if you
 				email me to set it up
 			- Bring your mock-up to class
-			- Make a new folder on your Github repositor for this project
-				- Put your code in that folder. Call it something like _firstMockUp_
+			- Make a new folder on your Github repository for this project
+				- Put your code in that folder. Call it something like _"YourName_firstMockUp"_
 				- Put a schematic in that folder. Hand drawn is fine.
 					If you want to use the schematic capture
 					program that I use, get it [here](http:fritzing.org)
@@ -310,8 +319,10 @@ __The schedule is subject to change__
 	Remember my office hours 3-4 on Thursdays, and at other times if you email me to schedule a time to meet.
 
 ### Week 7: Thursday, March 7, 2019
-#### Midterm Projects DUE!!
-- Midterm Project presentations and critique
+- Guest lecture: 9am
+  - Scott Kildall: https://kildall.com/)
+- Workshop session 
+  - work on your Midterm Project!
 - Fritzing demonstration
 - *Homework*
   - Write a self-evaluation, email to me (stewari@cca.edu) by Friday, March 2 at noon. 
@@ -345,12 +356,17 @@ __The schedule is subject to change__
     - Your final project can be a fuly developed iteration of your midterm project incorporating "nice to have" functionality from the initial concept or additional functionality suggested by the first iteration.
       - OR
     - a new project, substantially more complex than the exercises you've done so far.
+    
+  - Documenting your project by creating an Instructable would be fantastic!! Just add a link to your Instructable in your GitHub repository.
      
      
 ### Week 8: Thursday, March 14, 2019
+#### Midterm Projects DUE!!
+- Midterm Project presentations and critique
 - Evaluation feedback
   - Documentation and final project proposal review
 - Lecture
+  - Frtizing!
   - More Basics!!!
   	- Arduino Reference: https://www.arduino.cc/reference/en/
   	- Sensors
@@ -367,16 +383,13 @@ __The schedule is subject to change__
 	- Arrays
 	- Edge detection
 	- Debouncing
-- Demonstration: LDR as voltage divider measured with multimeter
 
 - *Homework*
   - Please read and try to understand as much as possible. Be prepared to answer questions in class. It is OK if you don't understand everything, but it is not OK if you did not read:
-    1. Test equipment:
-      - https://learn.adafruit.com/multimeters?view=all
-      - https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter
+
     2. look up 3 functions you don't know on Arduino Reference: https://www.arduino.cc/reference/en/
     3. Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) 
-      and think about whether the your project is doing something in a meaningful or unique way. Will someone want to play 	with your project for longer than 5 seconds? Why or why not?      
+      and think about whether the your project is doing something in a meaningful or unique way. Will someone want to play with your project for longer than 5 seconds? Why or why not?      
     4. Read the [Fritzing resources](https://github.com/loopstick/resourcesForClasses#fritzing-resources) 
   on our [Resources](https://github.com/loopstick/resourcesForClasses) page
     5. __Due Week 10 (March 29):__ Create a __schematic__ in __Fritzing__ and then create a Printed Circuit Board (PCB) layout of that circuit. The schematic can be of any circuit you wish. Inclusion of Arduino is up to you. If you have no idea, create the first circuit on [this](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) page.
@@ -444,8 +457,6 @@ __The schedule is subject to change__
 
 ### Week 10: Thursday, April 4, 2019
 - Quick project status reports
-- Hybrid Lab workshop tomorrow 
-  - NEOPIXEL REVIEW with Sabrina Nassar, FRIDAY Mar 30, 3-5PM
 - Lecture 
   - review 
     - Control Structures
