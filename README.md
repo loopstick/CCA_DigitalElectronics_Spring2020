@@ -24,44 +24,25 @@ You will be required to create your own repository for handing in homework and f
 No textbook is required, but there are many good online references and a few good books out there I can recommend. We also have a good assortment of books in the library.
 
 #### Prerequisites
-* Basic algebra. You should be comfortable with simple equations,manipulating numbers, fractions, solving for variables, and the
-engineering prefixes (micro, milli, kilo, mega, etc.)
+* Basic algebra. You should be comfortable with simple equations,manipulating numbers, fractions, solving for variables, and the engineering prefixes (micro, milli, kilo, mega, etc.)
 * Some understanding of geometry will also be helpful.
 
 #### Requirements and Expectations
-* Always bring your computer to class. If you don’t have a computer, check one out from the Media Center. You will need a computer to
-participate, and your grade will be negatively affected if you don’t bring one.
+* Always bring your computer to class. If you don’t have a computer, check one out from the Media Center. You will need a computer to participate, and your grade will be negatively affected if you don’t bring one.
 * Always bring your Arduino, breadboard, jumper wires, sensors, etc. to class.
 * I recommend keeping a dedicated notebook for this class. Keep your project sketches, schematics, punch lists, and class notes in this notebook. You can also scan your notes, sketches, etc and post them in your GitHub repository.
-* Participate in class! Ask questions, guess answers, propose topics,
-share interesting projects you’ve found, push the envelope, explore your
-interests, and teach us all! There are no stupid questions; admitting when
-you don’t know something should be a point of pride. Chances are you’re
-not the only one with a question, just the bravest one. 
-* As outlined in the CCA Student Handbook, attendance in class is mandatory. Three or
-more unexcused absences will result in a failing grade.
+* Participate in class! Ask questions, guess answers, propose topics, share interesting projects you’ve found, push the envelope, explore your interests, and teach us all! There are no stupid questions; admitting when you don’t know something should be a point of pride. Chances are you’re not the only one with a question, just the bravest one. 
+* As outlined in the CCA Student Handbook, attendance in class is mandatory. Three or more unexcused absences will result in a failing grade.
 * Plan to spend 3-12 hours a week on homework. Plan ahead!
-* Submit your homework on time.  Organize your GitHub repository to be easy to navigate. Attend class, and
-don’t be late. These are not requests, these are requirements.
-* You are responsible for checking your email and the class repository
-for updates.
+* Submit your homework on time.  Organize your GitHub repository to be easy to navigate. Attend class, and don’t be late. These are not requests, these are requirements.
+* You are responsible for checking your email and the class repository for updates.
 
 #### Access & Wellness Services
 CCA says:
-> Students with disabilities, including disabilities that are not clearly
-> evident like chronic diseases or learning disabilities are encouraged
-> to notify their instructor after class or during office hours. CCA will
-> make reasonable accommodations for persons with documented
-> disabilities. Students should contact Suzanne Raffeld, Director of
-> Access and Wellness Services (email: sraffeld@cca.edu; phone:
-> 510.594.3775), to answer any questions or for assistance. For more
-> information, consult CCA's webpage at: http://www.cca.edu/
-> students/resources/disability.
+> Students with disabilities, including disabilities that are not clearly evident like chronic diseases or learning disabilities are
+encouraged to notify their instructor after class or during office hours. CCA will make reasonable accommodations for persons with > documented disabilities. Students should contact Suzanne Raffeld, Director of Access and Wellness Services (email: sraffeld@cca.edu; phone: 510.594.3775), to answer any questions or for assistance. For more information, consult CCA's webpage at: http://www.cca.edu/students/resources/disability.
 
-I want you to succeed in this class. Please make use of the Hybrid Lab
-coaches, the Learning Resource Center, and talk to me if you feel you are
-struggling with the material — I can help you do better in this class, but
-only if you let me know you need help.
+I want you to succeed in this class. Please make use of the Hybrid Lab coaches, the Learning Resource Center, and talk to me if you feel you are struggling with the material — I can help you do better in this class, but only if you let me know you need help.
 
 #### Class Format
 Sessions will be a mix of lectures, guided labs, and independent work time.
@@ -76,37 +57,33 @@ I will consider the various components of the class in roughly the following pro
 * 25% In-Class Hands-on Work and Notebook
 * 10% Attendance & Participation
 
-Grading Rubric
-
-**A: Excellent.** You’ve exhibited exemplary conceptual, technical and
+#### Grading Rubric
+ 
+> **A: Excellent.** You’ve exhibited exemplary conceptual, technical and
 perceptual ability implementing projects. You’ve demonstrated a deft
 understanding of required readings, and ability to successfully
 communicate ideas and processes to others. All work is commented and
 clearly demonstrates understanding of each lesson. 
 
-**B: Good.** You’ve completed assignments, and demonstrated a grasp of 
+> **B: Good.** You’ve completed assignments, and demonstrated a grasp of 
 most of the main aspects of each lesson, but not all. You’re able to
 communicate information, and step by step processes well. In projects,
 conceptual, perceptual, and technical skills are present.
 
-**C: Satisfactory.** You’ve completed the assignments but may lack
+> **C: Satisfactory.** You’ve completed the assignments but may lack
 enthusiasm or drive to push the work into detailed display of
 comprehension. You have not demonstrated comprehensive knowledge of
 the application or programming environment. 
 
-**D: Unsatisfactory.** You have not completed the work as assigned.
+> **D: Unsatisfactory.** You have not completed the work as assigned.
 Substantial problems exist in your work.
 
-**F: Fail.** You did not submit work, or work is below unsatisfactory level.
+> **F: Fail.** You did not submit work, or work is below unsatisfactory level.
 
-##### Words of Advice
-Exploration is a key part of this class. You’ll get more out of your work if
-you give yourself extra time and have patience. Sometimes you’ll hit a dead
-end and have to start over — don’t despair, it happens to everyone, but
-give yourself extra time just in case.
-This class should be both fun and intense. It’s most fun when you enjoy
-what you’re working on, so make a point of taking some time to explore
-projects you make want to work on in the future!
+
+#### Words of Advice
+Exploration is a key part of this class. You’ll get more out of your work if you give yourself extra time and have patience. Sometimes you’ll hit a dead end and have to start over — don’t despair, it happens to everyone, but give yourself extra time just in case.
+This class should be both fun and intense. It’s most fun when you enjoy what you’re working on, so make a point of taking some time to explore projects you make want to work on in the future!
 
 #### Required equipment
 - _Arduino Uno R3__ e.g. from
@@ -127,7 +104,7 @@ projects you make want to work on in the future!
 
 Many vendors grant discounts for educational purposes so ask before you
 purchase. I encourage you to organize a group purchase to save on shipping
-fees, but do so immediately so we have the equipment on hand.
+fees, but do so immediately so you have the equipment on hand.
 
 The code ADAEDU may be good for 10% educational discount at Adafruit.  
 
@@ -135,7 +112,7 @@ Local stores that should carry all these are:
 * [Jameco](http://www.jameco.com) in Belmont, just south of the SFO airport
 * [Al Lasher's Electronics](http://allashers.com/) in Berkeley
 * [Fry's Electronics](http://www.frys.com) (various locations in South Bay) has some electronic supplies 
-but I'm not sure that they carry the official Arduino.
+
 
 #### Optional equipment
 As you develop your projects and interests, you might need to purchase
@@ -146,7 +123,6 @@ absolutely no cost; at the high end there is no limit; a complicated robotic
 project could easily start at hundreds of dollars. 
 
 #### Some lessons I’ve learned:
-
 - Projects will cost more than you think they will
 - Projects will take longer than you think they will
 - You will order parts that are wrong or that you simply decide not
@@ -166,7 +142,7 @@ third will grow (or shrink) to accommodate.
 ### Schedule
 __The schedule is subject to change__
 
-### Week 1: Thursday, January 18, 2018
+### Week 1: Thursday, January 24, 2018
 ## Introductions: Administravia and Arduino
 - Interests and goals
 - Hands-on activity
@@ -184,7 +160,7 @@ __The schedule is subject to change__
   - Create your Github repository using [this guide](https://github.com/zamfi/github-guide)
   and email me the URL to your repository (stewari@cca.edu)
 
-### Week 2: Thursday, January 25, 2018
+### Week 2: Thursday, January 31, 2018
 ## OUTPUT: Tone and Basic Electronics
   - Review schedule
   - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
@@ -219,7 +195,7 @@ __The schedule is subject to change__
       - Describe (briefly) what you've learned in your Github READ.md file.
 
 
-### Week 3: Thursday, February 1, 2018
+### Week 3: Thursday, February 7, 2018
 ## INPUT: Sensors and multi-tasking
 - Homework review
 - Hands-on activity: Making sound without Arduino
@@ -238,10 +214,10 @@ __The schedule is subject to change__
 	We will discuss project ideas in class and you can always email me if you need help deciding what to do.
 	At minimum your project should make use of **TWO input sensors** and **TWO kinds of output**.
 	  - Deliver the following in your Github repository:
-		- Draw a sketch of your _device that does something_ ~~musical instrument~~
+		- Draw a sketch of your _device that does something_
 		- Describe the overall concept
-		- Create a very rough schematic to the best of your ability
-		- Describe what your program will do, to the best of your ability
+		- Create a very rough electrical schematic to the best of your ability
+		- Describe what your program (code) will do, to the best of your ability
 		- Write a "punch list" of tasks that must be accomplished to finish the project
 		  - break the full project into smaller, more manageable pieces
 		    - identify which pieces are necessary for a minimum viable product (i.e. essential)
@@ -250,7 +226,7 @@ __The schedule is subject to change__
 	[Github resources](https://github.com/loopstick/ResourcesForClasses#github-resources) in our
 	[resources](https://github.com/loopstick/resourcesForClasses) repository
 
-### Week 4: Thursday, February 9, 2018
+### Week 4: Thursday, February 14, 2018
 - Review proposals
   - Resources for realizing project ideas: 
   [Sparkfun](https://www.sparkfun.com/), [Adafruit](https://www.adafruit.com/), surplus sellers (
@@ -284,7 +260,7 @@ __The schedule is subject to change__
 					program that I use, get it [here](http:fritzing.org)
 
 
-### Week 5: Thursday, February 15, 2018
+### Week 5: Thursday, February 21, 2018
 - Review Projects
 - Hands-on activity: 
 	- Debugging techniques
@@ -316,16 +292,16 @@ __The schedule is subject to change__
 			If you want to use the schematic capture program that
 			I use, get it [here](http:fritzing.org)
 
-### Week 6: Thursday, February 22, 2018
-- Work week with Special Guest Lecturer (attendance is mandatory)
+### Week 6: Thursday, February 28, 2018 (President's day - but no holiday - classes held)
+- Workshop session - work on your Midterm Project!
 - *Homework*
-  - Work on your Midterm project – Due next week!
+  - Work on your Midterm project – Due week 8 !
     - Remember the principle of Minimum Viable Product. First get the basics working, then, if you have time, add other features
       - As always
 	Email me if you have questions!
 	Remember my office hours 3-4 on Thursdays, and at other times if you email me to schedule a time to meet.
 
-### Week 7: Thursday, March 1, 2018
+### Week 7: Thursday, March 7, 2018
 #### Midterm Projects DUE!!
 - Midterm Project presentations and critique
 - Fritzing demonstration
