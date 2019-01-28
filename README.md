@@ -94,7 +94,7 @@ This class should be both fun and intense. It’s most fun when you enjoy what y
   	[Arduino](https://www.amazon.com/gp/product/B00CBZ4CII/3) via
 	[Amazon](https://www.amazon.com/gp/product/B008GRTSV6/ref=ox_sc_act_title_1?smid=AA57DDZKZUZDL&psc=1).	
     - Not recommended: Arduino compatibles, especially those from untested sources. Many sellers on Amazon or Ebay are selling cut-rate knock offs that _sometimes_ work and sometimes _do not_.
-    - Also not recommended: [Adafruit Metro - Uno compatible](https://www.adafruit.com/products/50)). Although Adafruit is typically a great source, the Metro FTDI drivers are less than simple and straightforward to get working and keep working consistently.
+    - Also not recommended: [Adafruit Metro - Uno compatible](https://www.adafruit.com/products/50). Although Adafruit is typically a great source, the Metro FTDI drivers are less than simple and straightforward to get working and keep working consistently.
     
 - _Solderless breadboard_, full size (also known as 830 tie point) e.g. from
 	[Jameco](http://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?search_type=jamecoall&catalogId=10001&freeText=2157706&langId=-1&productId=2157706&storeId=10001&ddkey=http:StoreCatalogDrillDownView)
