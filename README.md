@@ -533,7 +533,7 @@ __The schedule is subject to change__
 
 
 
-## Saturday, May 5: Interface Show!!!!
+## Saturday, May 11: Interface Show!!!!
 	7PM to 9:30PM
 	Oliver Art Center
 	California College of the Arts
