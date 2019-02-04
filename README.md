@@ -179,8 +179,7 @@ __The schedule is subject to change__
       - remember I've posted gitHub resources at the bottom/end of [class resources](https://github.com/loopstick/ResourcesForClasses).
     - CODE CHALLENGE: make something interesting happen using an LDR and an LED.
       - use an LDR to sense your shadow, so that the LED fades on when your shadow falls on the sensor.
-      - make the LED turn off when your shadow falls on the LDR
-      
+      - make the LED turn off when your shadow falls on the LDR  
   - look ahead: Multitasking
     - Blink Without Delay (File->Examples->Digital->BlinkWithoutDelay)
     - Conditionals
@@ -203,8 +202,8 @@ __The schedule is subject to change__
   - poll a sensor continually while performing other tasks
 - *Homework:*
 	- Propose a device for your midterm project _that does something_ "interesting". 
-	We will discuss project ideas in class and you can always email me if you need help deciding what to do.
-	At minimum your project should make use of **TWO input sensors** and **TWO kinds of output**.
+	  - At minimum your project should make use of **TWO input sensors** and **TWO kinds of output**.
+	  - We will discuss project ideas in class and you can always email me if you need help deciding what to do.
 	  - Deliver the following in your Github repository:
 		- Draw a sketch of your _device that does something_
 		- Describe the overall concept
@@ -214,16 +213,16 @@ __The schedule is subject to change__
 		  - break the full project into smaller, more manageable pieces
 		    - identify which pieces are necessary for a minimum viable product (i.e. essential)
 		    - identify which pieces are "nice to have" (i.e. non-essential)
-	  - Don't forget that there is a Github cheat sheet in the section of 
+	    - Don't forget that there is a Github cheat sheet in the section of 
 	[Github resources](https://github.com/loopstick/ResourcesForClasses#github-resources) in our
 	[resources](https://github.com/loopstick/resourcesForClasses) repository
 	- Do some research to find 3 sensors that interest you
-	  - look at:
+	   - look at:
 	     - Adafruit's sensors (https://www.adafruit.com/category/35)
 	     - Sparkfun sensors (https://www.sparkfun.com/categories/23?page=all)
-	  - google " arduino sensors" and see what you find!
-	  - Read about a few common sensors in the [Adafruit Sensors guide](http://www.ladyada.net/learn/sensors/) 
-          - Describe (briefly) what you've learned in your Github READ.md file.
+	   - google " arduino sensors" and see what you find!
+	   - Read about a few common sensors in the [Adafruit Sensors guide](http://www.ladyada.net/learn/sensors/) 
+           - Describe (briefly) what you've learned in your Github READ.md file.
 
 ### Week 4: Thursday, February 14, 2019
 - Review midterm project proposals
@@ -391,7 +390,6 @@ __The schedule is subject to change__
 
 - *Homework*
   - Please read and try to understand as much as possible. Be prepared to answer questions in class. It is OK if you don't understand everything, but it is not OK if you did not read:
-
     2. look up 3 functions you don't know on Arduino Reference: https://www.arduino.cc/reference/en/
     3. Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) 
       and think about whether the your project is doing something in a meaningful or unique way. Will someone want to play with your project for longer than 5 seconds? Why or why not?      
