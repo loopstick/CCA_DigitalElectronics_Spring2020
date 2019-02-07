@@ -539,12 +539,12 @@ __The schedule is subject to change__
 
 ## Student Repositories
 CCA DigitalElec Spring2019 GitHub Repositories
-[Cassie](https://github.com/zamfi/github-guide)
-[Echo](https://github.com/Tingyubaba/Electronic-Design-625-1/)
-[Hannah](https://github.com/duststar0213/CCADigitalElectronics)
-[Kaiwen](https://github.com/kaiwenliu96/DESIGN-625-1.git)
-[Serene](https://github.com/Serenexiaopu/Electronic_Xiaopu_Deng)
-[Ted](https://github.com/tedchen0313/hw1.git)
+- [Cassie](https://github.com/zamfi/github-guide)
+- [Echo](https://github.com/Tingyubaba/Electronic-Design-625-1/)
+- [Hannah](https://github.com/duststar0213/CCADigitalElectronics)
+- [Kaiwen](https://github.com/kaiwenliu96/DESIGN-625-1.git)
+- [Serene](https://github.com/Serenexiaopu/Electronic_Xiaopu_Deng)
+- [Ted](https://github.com/tedchen0313/Digital-Electronics)
 
 
 
