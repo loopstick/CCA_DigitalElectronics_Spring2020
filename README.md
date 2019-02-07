@@ -186,8 +186,7 @@ __The schedule is subject to change__
     - Complex interactions
     - Example
       - AnalogInput modified to work without using delay():
-      [AnalogInputWithoutDelay](https://github.com/michaelshiloh/Digital-Electronics-Spring-2017/blob/master/examples/AnalogReadWithoutDelay/AnalogReadWithoutDelay.ino)
-
+      [AnalogInputWithoutDelay](https://github.com/loopstick/CCA_DigitalElectronics_Spring2019/blob/master/examples/AnalogInputWithoutDelay/AnalogInputWithoutDelay.ino
 
 ### Week 3: Thursday, February 7, 2019
 ## INPUT: Sensors and multi-tasking
