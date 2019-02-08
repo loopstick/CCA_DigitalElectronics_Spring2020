@@ -12,6 +12,14 @@
 #### Goals
 The goal of this class is to teach you how to design, build, and debug digital electronic devices. My goal is to make the course as interesting and relevant as possible for you, so please ask questions and bring up topics you are curious about.
 
+#### Learning Outcomes:
+- learn the basics of designing, building, and debugging digital electronic devices. 
+- learn elementary concepts of physical computing 
+- research through making and prototyping
+- work through versioning
+- understand and respond to technology constraints
+- start to make connections between technology, programming, and outcome goals 
+
 #### Github and Class Repository
 We will be using a cloud service called Github. Our repository is at
 https://github.com/loopstick/CCA_DigitalElectronics_Spring2019
