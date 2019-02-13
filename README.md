@@ -184,7 +184,6 @@ __The schedule is subject to change__
     - Read __all four__ of the [Multitasking Resources](https://github.com/loopstick/ResourcesForClasses#arduino-multitasking-resources-how-to-blink-an-led-without-using-delay) in [resources](https://github.com/loopstick/ResourcesForClasses).
     - Find (online) an Arduino project that you find interesting. 
       - Write a brief description and put a link in the README.md file in your Github repository. 
-      - remember I've posted gitHub resources at the bottom/end of [class resources](https://github.com/loopstick/ResourcesForClasses).
     - CODE CHALLENGE: make something interesting happen using an LDR and an LED.
       - use an LDR to sense your shadow, so that the LED fades on when your shadow falls on the sensor.
       - make the LED turn off when your shadow falls on the LDR  
@@ -232,6 +231,8 @@ __The schedule is subject to change__
            - Describe (briefly) what you've learned in your Github READ.md file.
 
 ### Week 4: Thursday, February 14, 2019
+- present inspirational projects (homework from Week 2)
+- talk about sensors!
 - Review midterm project proposals
   - Resources for realizing project ideas: 
     - [Sparkfun](https://www.sparkfun.com/)
