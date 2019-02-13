@@ -1,4 +1,6 @@
+
 ###Debugging!###
+
 	1.	Software
 	    - Make sure you understand what is going on
 	      - Add println() to display values and to report on stage in processing e.g.:Serial.print("before loop, sensor value is ");
