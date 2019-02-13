@@ -255,7 +255,8 @@ __The schedule is subject to change__
       - [Adafruit Multimeter Overviiew](https://learn.adafruit.com/multimeters?view=all) 
       - [Sparkfun: How to use a Multimeter](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter)
     - troubleshooting basics
-      - [Troubleshooting](https://www.arduino.cc/reference/en/language/functions/communication/serial/print/)
+      - [Troubleshooting](https://www.arduino.cc/en/guide/troubleshooting)
+      - [Debugging](https://github.com/loopstick/CCA_DigitalElectronics_Spring2019/blob/master/Debugging_Shiloh.rtf) by Michael Shiloh
     - Input and Output ranges
       - math and scaling
       - potentiometers
@@ -265,12 +266,12 @@ __The schedule is subject to change__
     - Syntax error vs. logic error
     - Using _print_ and _println_
     - Using the Digital Multimeter
-  - See "debugging in our class [resources](https://github.com/loopstick/resourcesForClasses)
+  - See ["debugging"](https://github.com/loopstick/resourcesForClasses#debugging) in our class [resources](https://github.com/loopstick/resourcesForClasses)
     - Asking for help:
       - First try to figure it out on your own. 
         - Google is great here.
       - Upload your code to Github (or email it)
-        - remember that Arduino .ino files must live in a folder of the same name along with any other associated files, so zips work           well to keep everything together
+        - remember that Arduino .ino files must live in a folder of the same name along with any other associated files, so zips work well to keep everything together
         - The file/folder name should make sense (i.e. _"Sudhu_MidtermProj_v3"_ vs _"file_012619"_)
       - Explain the problem to me (or whoever you are asking) 
         
