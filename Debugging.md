@@ -1,5 +1,7 @@
 Debugging
+
 Troubleshooting
+
 Figuring out how to make it work when it’s not working
 
 - Software
@@ -36,13 +38,13 @@ Figuring out how to make it work when it’s not working
 				digitalWrite(yellowLED, HIGH) // after loop
 				delay(50); // just enough to see
         
-		- Problems with libraries
-			a. Ideally, confirm the library works with the examples that came with it or came from the website where you got the library. finally try to find examples that seem to be reliable (comments are a good way to determine)
-			b. be careful of libraries that are very old, especially if the comments are also very old. it might be that changes in arduino prevent them from working now.
-			c. Join any mailing lists or forums related to the library or the website that the library came from. search the archive for hints, and then post your question after you’ve done some research
+	- Problems with libraries
+	  - Ideally, confirm the library works with the examples that came with it or came from the website where you got the library. finally try to find examples that seem to be reliable (comments are a good way to determine)
+	  - be careful of libraries that are very old, especially if the comments are also very old. it might be that changes in arduino prevent them from working now.
+	  - Join any mailing lists or forums related to the library or the website that the library came from. search the archive for hints, and then post your question after you’ve done some research
 
-	B. Isolating problems
-		i. Create a small test program to isolate the part that is not working
+- Isolating problems
+  - i. Create a small test program to isolate the part that is not working
 			a. This makes it easier to work on
 			b. Identify whether it’s due to an interaction with something else
 			c. Much more likely to get help quickly from teacher or others (online forum, etc.
