@@ -235,14 +235,10 @@ __The schedule is subject to change__
 - talk about sensors!
 - Review midterm project proposals
   - Resources for realizing project ideas: 
-    - [Sparkfun](https://www.sparkfun.com/)
-    - [Adafruit](https://www.adafruit.com/)
-    - Tayda Electronics
-    - BangGood
-    - surplus sellers 
-      - [MPJA](https://www.mpja.com/)
-      - Electronic Goldmine
-      - Circuit Specialists
+    - [Google](https://lmgtfy.com/)!
+    - [Instructables](https://www.instructables.com/)
+    - [Hackaday](https://hackaday.com/)
+    - [online electronics retailers[(https://github.com/loopstick/ResourcesForClasses/blob/master/README.md#online-electronics-retailers) on our [class resources](https://github.com/loopstick/ResourcesForClasses/) page.
   - ["Punch List"](https://en.wikipedia.org/wiki/Punch_list)
   - [Proof of Concept](https://en.wikipedia.org/wiki/Proof_of_concept) 
   and [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
@@ -252,11 +248,12 @@ __The schedule is subject to change__
       - [Arduino Print](https://www.arduino.cc/en/serial/print)
       - [Arduino Serial.print](https://www.arduino.cc/reference/en/language/functions/communication/serial/print/)
     - multimeters
-      - [Adafruit Multimeter Overviiew](https://learn.adafruit.com/multimeters?view=all) 
+      - [Adafruit Multimeter Overview](https://learn.adafruit.com/multimeters?view=all) 
       - [Sparkfun: How to use a Multimeter](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter)
     - troubleshooting basics
       - [Troubleshooting](https://www.arduino.cc/en/guide/troubleshooting)
       - [Debugging](https://github.com/loopstick/CCA_DigitalElectronics_Spring2019/blob/master/Debugging_Shiloh.rtf) by Michael Shiloh
+      - more [Debugging]](https://web.archive.org/web/20170823180125/http://teachmetomake.com/wordpress/debugging-circuits) by Michael Shiloh
     - Input and Output ranges
       - math and scaling
       - potentiometers
