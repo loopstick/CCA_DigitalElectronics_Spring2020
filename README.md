@@ -286,15 +286,13 @@ __The schedule is subject to change__
 			that.
 		- As always
 			- Email me if you have questions
-			- Remember my office hours 3-3:30 on Thursday, and at other times if you
-				email me to set it up
-			- Bring your mock-up to class
 			- Make a new folder on your Github repository for this project
 				- Put your code in that folder. Call it something like _"YourName_firstMockUp"_
-				- Put a schematic in that folder. Hand drawn is fine.
-					If you want to use the schematic capture
-					program that I use, get it [here](http:fritzing.org)
-
+				- Put a schematic in that folder. 
+				  - Hand drawn is fine.
+				  - [fritzing](http:fritzing.org) and [circuit.io](https://www.circuito.io/) 
+				  are also nice for creating schematics.
+  
 
 ### Week 5: Thursday, February 21, 2019
 - Review midterm project ideas
@@ -380,7 +378,7 @@ __The schedule is subject to change__
   - More Basics!!!
   	- Arduino Reference: https://www.arduino.cc/reference/en/
   	- Sensors
-	  - Electronic Theory
+	  - Electronic Theory Review
 	    - Ohm's Law
 	    - LDR as voltage divider measured with multimeter
 	- Soldering circuits
