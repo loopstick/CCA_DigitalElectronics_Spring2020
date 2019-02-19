@@ -52,16 +52,16 @@ Software
   - C.	
 
 Hardware
- - 1. Swap parts
- - 2. Isolate problems
-   - a. Create a small test circuit to isolate the part that is not working
-   - b. This makes it easier to work on
-   - c. Identify whether it’s due to an interaction with something else
-   - d. Much more likely to get help quickly from teacher or others (online forum, etc.
-  - 3. Test equipment
-   - a. Oscilloscope
-   - b. Multimeter
-   - c. Variable power supplies
+ - Swap parts
+ - Isolate problems
+   - Create a small test circuit to isolate the part that is not working
+   - This makes it easier to work on
+   - Identify whether it’s due to an interaction with something else
+   - Much more likely to get help quickly from teacher or others (online forum, etc.
+  - Test equipment
+   - Oscilloscope
+   - Multimeter
+   - Variable power supplies
 
 Online resources
  - Copy and paste the error message into Google
@@ -76,10 +76,10 @@ Online resources
        - If it’s extremely late at night use sites in different time zones. Evening is probably the most appropriate time.
        - Suggested sites
          - Always start with the home site of any library or part that is key to what the problem is (assuming there is one). If your project is based on an Instructable or other set of instructions, post on that site if possible
-           - Arduino forum
-	   - Adafruit forum
-           - Stack Exchange
-	   - Spark Fun
+           - [Arduino forum](https://forum.arduino.cc/)
+           - [Adafruit forum](https://forums.adafruit.com/)
+	   - [SparkFun forums](https://forum.sparkfun.com/)
+           - [Stack Exchange](https://stackexchange.com/)
            - Tronixstuff
 
 4. How to reduce risks before buying components, using libraries, or trusting an Instructable or other instruction, example, or tutorial:
