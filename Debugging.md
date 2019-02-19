@@ -4,7 +4,7 @@ Troubleshooting
 
 Figuring out how to make it work when it’s not working
 
-- Software
+Software
  	- Make sure you understand what is going on
 		- Add println() to display values and to report on stage in processing:
     
@@ -45,47 +45,48 @@ Figuring out how to make it work when it’s not working
 
 - Isolating problems
   - i. Create a small test program to isolate the part that is not working
-			a. This makes it easier to work on
-			b. Identify whether it’s due to an interaction with something else
-			c. Much more likely to get help quickly from teacher or others (online forum, etc.
+    - a. This makes it easier to work on
+    - b. Identify whether it’s due to an interaction with something else
+    - c. Much more likely to get help quickly from teacher or others (online forum, etc.
 
-	C.	
+  - C.	
 
-2. Hardware
-	A. Swap parts
-	B. Isolate problems
-		a. Create a small test circuit to isolate the part that is not working
-		b. This makes it easier to work on
-		c. Identify whether it’s due to an interaction with something else
-		d. Much more likely to get help quickly from teacher or others (online forum, etc.
-	C. Test equipment
-		i. Oscilloscope
-		ii. Multimeter
-		iii. Variable power supplies
+Hardware
+ - 1. Swap parts
+ - 2. Isolate problems
+   - a. Create a small test circuit to isolate the part that is not working
+   - b. This makes it easier to work on
+   - c. Identify whether it’s due to an interaction with something else
+   - d. Much more likely to get help quickly from teacher or others (online forum, etc.
+  - 3. Test equipment
+   - a. Oscilloscope
+   - b. Multimeter
+   - c. Variable power supplies
 
-3. Online resources
-	A. Copy and paste the error message into Google
-	B. Google keywords: Arduino and/or Processing, along with what you are trying to do or any components that are part of the issue. The goal of the project is usually not a good keyword.
-	C. Posting a question on a forum, mailing lists, etc.
-		i. Before posting, you must prepare
-			a. Do everything else possible first. People are much more helpful when it’s obvious that you’ve done your homework e.g. researching the issue, isolating the problem to a minimal circuit/program, getting local help (me, other teachers or students)
-			b. Read some other posts in this forum/mailing list to get a sense of the culture. You want to post your question in a similar way
-			c. Most forums have a post that suggests the best way to get help. This might be called something like “Before you Post” or “Read this First” or “How to Post”. Make sure you follow the instructions.
-			d. Compose your post carefully. Include all the necessary information, but don’t confuse the issue with unnecessary information (e.g. the concept of your project probably doesn’t matter if you are getting an error from a library). Include your minimal circuit schematic or program, which must be neat and clear and well documented
-			e. You are welcome to run the post by me first
-			f. If it’s extremely late at night use sites in different time zones. Evening is probably the most appropriate time.
-			g. Suggested sites
-				a. Always start with the home site of any library or part that is key to what the problem is (assuming there is one). If your project is based on an Instructable or other set of instructions, post on that site if possible
-				b. Arduino forum
-				c. Adafruit forum
-				d. Stack Exchange
-				e. Spark Fun
-				f. Tronixstuff
+Online resources
+ - Copy and paste the error message into Google
+ - Google keywords: Arduino and/or Processing, along with what you are trying to do or any components that are part of the issue. The goal of the project is usually not a good keyword.
+   - Posting a question on a forum, mailing lists, etc.
+     - Before posting, you must prepare
+       - Do everything else possible first. People are much more helpful when it’s obvious that you’ve done your homework e.g. researching the issue, isolating the problem to a minimal circuit/program, getting local help (me, other teachers or students)
+       - Read some other posts in this forum/mailing list to get a sense of the culture. You want to post your question in a similar way
+       - Most forums have a post that suggests the best way to get help. This might be called something like “Before you Post” or “Read this First” or “How to Post”. Make sure you follow the instructions.
+       - Compose your post carefully. Include all the necessary information, but don’t confuse the issue with unnecessary information (e.g. the concept of your project probably doesn’t matter if you are getting an error from a library). Include your minimal circuit schematic or program, which must be neat and clear and well documented
+       - You are welcome to run the post by me first
+       - If it’s extremely late at night use sites in different time zones. Evening is probably the most appropriate time.
+       - Suggested sites
+         - Always start with the home site of any library or part that is key to what the problem is (assuming there is one). If your project is based on an Instructable or other set of instructions, post on that site if possible
+           - Arduino forum
+	   - Adafruit forum
+           - Stack Exchange
+	   - Spark Fun
+           - Tronixstuff
+
 4. How to reduce risks before buying components, using libraries, or trusting an Instructable or other instruction, example, or tutorial:
-	A. Read the documentation. Is it clear and complete? Does it explain everything you need to know?
-	B. Read all the comments and feedback to see if there are any issues and to gauge how helpful the provider is.
-	C. Are examples and tutorials provided? Are they clear and complete? That’s a sign of reduced risk. Read those, and any comments on them.
-	D. Google the name of the item. Is it discussed much? If there is no discussion that implies that no one else is using it. High risk. Follow some of the discussions. Do people seem to be having success and getting projects to work? Good, that indicates a low risk. If the discussions are mostly about problems that aren’t solved, that’s a high risk.
+  - Read the documentation. Is it clear and complete? Does it explain everything you need to know?
+  - Read all the comments and feedback to see if there are any issues and to gauge how helpful the provider is. 
+  - Are examples and tutorials provided? Are they clear and complete? That’s a sign of reduced risk. Read those, and any comments on them.
+  - Google the name of the item. Is it discussed much? If there is no discussion that implies that no one else is using it. High risk. Follow some of the discussions. Do people seem to be having success and getting projects to work? Good, that indicates a low risk. If the discussions are mostly about problems that aren’t solved, that’s a high risk.
 
 
 
