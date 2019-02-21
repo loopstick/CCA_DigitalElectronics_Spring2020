@@ -97,7 +97,8 @@ Online resources
 
 
 
-
+This guide was written by Michael Shiloh circa 2013
+modified by Sudhu Tewari: Feb 2019
 
 
 
