@@ -81,8 +81,8 @@ Online resources
          - Always start with the home site of any library or part that is key to what the problem is (assuming there is one). If your project is based on an Instructable or other set of instructions, post on that site if possible
            - [Arduino forum](https://forum.arduino.cc/)
            - [Adafruit forum](https://forums.adafruit.com/)
-	   - [SparkFun forums](https://forum.sparkfun.com/)
-	   - [Stack Exchange](https://stackexchange.com/)
+           - [SparkFun forums](https://forum.sparkfun.com/)
+           - [Stack Exchange](https://stackexchange.com/)
            - Tronixstuff
 
 ## Reduce Risk
@@ -101,8 +101,8 @@ Online resources
 
 
 
-  - This guide was written by Michael Shiloh circa 2013
-    - modified by Sudhu Tewari: Feb 2019
+- This guide was written by Michael Shiloh circa 2013
+  - modified by Sudhu Tewari: Feb 2019
 
 
 
