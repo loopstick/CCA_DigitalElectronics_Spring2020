@@ -82,7 +82,7 @@ Online resources
            - [Arduino forum](https://forum.arduino.cc/)
            - [Adafruit forum](https://forums.adafruit.com/)
 	   - [SparkFun forums](https://forum.sparkfun.com/)
-           - [Stack Exchange](https://stackexchange.com/)
+	   - [Stack Exchange](https://stackexchange.com/)
            - Tronixstuff
 
 ## Reduce Risk
@@ -97,8 +97,12 @@ Online resources
 
 
 
-This guide was written by Michael Shiloh circa 2013
-modified by Sudhu Tewari: Feb 2019
+
+
+
+
+  - This guide was written by Michael Shiloh circa 2013
+    - modified by Sudhu Tewari: Feb 2019
 
 
 
