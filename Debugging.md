@@ -5,6 +5,9 @@
 ## Software
   - Make sure you understand what is going on
     - use [Arduino Language Reference](https://www.arduino.cc/reference/en/) to be sure you understand how functions work and are using the correct syntax
+    - if you are getting compile errors try to understand what is causing the error
+      - error messages can be difficult to understand but they often point out exactly what's wrong. 
+      - google the exact error message - sometimes you will find a solution
     - Add println() to display values and to report on stage in processing:
     
 				Serial.print("before loop, sensor value is ");
