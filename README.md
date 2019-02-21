@@ -394,13 +394,13 @@ __The schedule is subject to change__
 
 - *Homework*
   - Please read and try to understand as much as possible. Be prepared to answer questions in class. It is OK if you don't understand everything, but it is not OK if you did not read:
-    2. look up 3 functions you don't know on Arduino Reference: https://www.arduino.cc/reference/en/
-    3. Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) 
+    - look up 3 functions you don't know on Arduino Reference: https://www.arduino.cc/reference/en/
+    - Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) 
       and think about whether the your project is doing something in a meaningful or unique way. Will someone want to play with your project for longer than 5 seconds? Why or why not?      
-    4. Read the [Fritzing resources](https://github.com/loopstick/resourcesForClasses#fritzing-resources) 
+    - Read the [Fritzing resources](https://github.com/loopstick/resourcesForClasses#fritzing-resources) 
   on our [Resources](https://github.com/loopstick/resourcesForClasses) page
-    5. __Due Week 10 (March 29):__ Create a __schematic__ in __Fritzing__ and then create a Printed Circuit Board (PCB) layout of that circuit. The schematic can be of any circuit you wish. Inclusion of Arduino is up to you. If you have no idea, create the first circuit on [this](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) page.
-  Wayback archive - https://web.archive.org/web/20170816135325/http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge
+    - __Due Week 10 (March 29):__ Create a __schematic__ in __Fritzing__ and then create a Printed Circuit Board (PCB) layout of that circuit. The schematic can be of any circuit you wish. Inclusion of Arduino is up to you. If you have no idea, create the first circuit on [this](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) page.
+  [Wayback archive](https://web.archive.org/web/20170816135325/http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge)
 
 ### Week 9: Thursday, March 21, 2019
 - Homework review
