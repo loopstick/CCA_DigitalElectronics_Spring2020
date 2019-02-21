@@ -1,12 +1,10 @@
 Debugging
-
-Troubleshooting
-
-Figuring out how to make it work when it’s not working
+ - Troubleshooting
+   - Figuring out how to make it work when it’s not working
 
 Software
- 	- Make sure you understand what is going on
-		- Add println() to display values and to report on stage in processing:
+  - Make sure you understand what is going on
+    - Add println() to display values and to report on stage in processing:
     
 				Serial.print("before loop, sensor value is ");
 				Serial.println(sensorValue);
@@ -43,13 +41,12 @@ Software
 	  - be careful of libraries that are very old, especially if the comments are also very old. it might be that changes in arduino prevent them from working now.
 	  - Join any mailing lists or forums related to the library or the website that the library came from. search the archive for hints, and then post your question after you’ve done some research
 
-- Isolating problems
-  - i. Create a small test program to isolate the part that is not working
-    - a. This makes it easier to work on
-    - b. Identify whether it’s due to an interaction with something else
-    - c. Much more likely to get help quickly from teacher or others (online forum, etc.
+- Isolate problems
+  - Create a small test program to isolate the part that is not working
+    - This makes it easier to work on
+    - Identify whether it’s due to an interaction with something else
+    - Much more likely to get help quickly from teacher or others (online forum, etc.)
 
-  - C.	
 
 Hardware
  - Swap parts
