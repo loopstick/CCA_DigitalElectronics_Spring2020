@@ -1,6 +1,8 @@
 ## Debugging
-   - Troubleshooting
-     - Figuring out how to make it work when it’s not working
+   - AKA Troubleshooting
+     - AKA Figuring out how to make it work when it’s not working
+       - This guide was written by Michael Shiloh circa 2013
+         - modified by Sudhu Tewari: Feb 2019
 
 ## Software
   - Make sure you understand what is going on
@@ -100,9 +102,6 @@ Online resources
 
 
 
-
-- This guide was written by Michael Shiloh circa 2013
-  - modified by Sudhu Tewari: Feb 2019
 
 
 
