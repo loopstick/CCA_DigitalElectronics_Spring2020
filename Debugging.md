@@ -1,9 +1,10 @@
-Debugging
- - Troubleshooting
-   - Figuring out how to make it work when it’s not working
+## Debugging
+   - Troubleshooting
+     - Figuring out how to make it work when it’s not working
 
-Software
+## Software
   - Make sure you understand what is going on
+    - use [Arduino Language Reference](https://www.arduino.cc/reference/en/) to be sure you understand how functions work and are using the correct syntax
     - Add println() to display values and to report on stage in processing:
     
 				Serial.print("before loop, sensor value is ");
@@ -38,17 +39,17 @@ Software
         
 	- Problems with libraries
 	  - Ideally, confirm the library works with the examples that came with it or came from the website where you got the library. finally try to find examples that seem to be reliable (comments are a good way to determine)
-	  - be careful of libraries that are very old, especially if the comments are also very old. it might be that changes in arduino prevent them from working now.
+	  - be careful of libraries that are very old, especially if the comments are also very old. it might be that changes in Arduino prevent them from working now.
 	  - Join any mailing lists or forums related to the library or the website that the library came from. search the archive for hints, and then post your question after you’ve done some research
 
 - Isolate problems
   - Create a small test program to isolate the part that is not working
     - This makes it easier to work on
     - Identify whether it’s due to an interaction with something else
-    - Much more likely to get help quickly from teacher or others (online forum, etc.)
+    - You are much more likely to get help quickly from teacher or others (online forum, etc.) with a simple problem than a complex bundle of code.
 
 
-Hardware
+ ## Hardware
  - Swap parts
  - Isolate problems
    - Create a small test circuit to isolate the part that is not working
@@ -56,8 +57,10 @@ Hardware
    - Identify whether it’s due to an interaction with something else
    - Much more likely to get help quickly from teacher or others (online forum, etc.
   - Test equipment
+    - Multimeter
+      - test for voltage
+      - test for continuity
    - Oscilloscope
-   - Multimeter
    - Variable power supplies
 
 Online resources
@@ -79,11 +82,15 @@ Online resources
            - [Stack Exchange](https://stackexchange.com/)
            - Tronixstuff
 
-4. How to reduce risks before buying components, using libraries, or trusting an Instructable or other instruction, example, or tutorial:
+## Reduce Risk
+- How to reduce risks before buying components, using libraries, or trusting an Instructable or other instruction, example, or tutorial:
   - Read the documentation. Is it clear and complete? Does it explain everything you need to know?
   - Read all the comments and feedback to see if there are any issues and to gauge how helpful the provider is. 
   - Are examples and tutorials provided? Are they clear and complete? That’s a sign of reduced risk. Read those, and any comments on them.
-  - Google the name of the item. Is it discussed much? If there is no discussion that implies that no one else is using it. High risk. Follow some of the discussions. Do people seem to be having success and getting projects to work? Good, that indicates a low risk. If the discussions are mostly about problems that aren’t solved, that’s a high risk.
+  - Google the name of the item. Is it discussed much? 
+    - If there is no discussion that implies that no one else is using it = High risk. Follow some of the discussions. 
+    - Do people seem to be having success and getting projects to work? Good, that indicates a low risk. 
+    - If the discussions are mostly about problems that aren’t solved, that’s a high risk.
 
 
 
