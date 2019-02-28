@@ -253,7 +253,7 @@ __The schedule is subject to change__
     - troubleshooting basics
       - [Troubleshooting](https://www.arduino.cc/en/guide/troubleshooting)
       - [Debugging](https://github.com/loopstick/CCA_DigitalElectronics_Spring2019/blob/master/Debugging.md) by Michael Shiloh
-      - more [Debugging]](https://web.archive.org/web/20170823180125/http://teachmetomake.com/wordpress/debugging-circuits) by Michael Shiloh
+      - more [Debugging](https://web.archive.org/web/20170823180125/http://teachmetomake.com/wordpress/debugging-circuits) by Michael Shiloh
     - Input and Output ranges
       - math and scaling
       - potentiometers
