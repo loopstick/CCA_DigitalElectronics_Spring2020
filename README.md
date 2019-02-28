@@ -304,13 +304,12 @@ __The schedule is subject to change__
 - *Homework*
 	- You have 2 weeks left for this project. You should have a very solid prototype or first draft working by next week. Use class next week as an opportunity to solve problems.
 	- Remember the principle of _Minimum Viable Product_. First get the basics working, then, if you have time, add other features
-	- As always
-		- Email me if you have questions
-		- Make a new folder on your Github repository for this project
-		- Put your code in that folder.
-		- Put a schematic in that folder. Hand drawn is fine.
-			If you want to use the schematic capture program that
-			I use, get it [here](http:fritzing.org)
+	- As always: Email me if you have questions
+	- Make a new folder on your Github repository for this project
+          - Put your code in that folder. Call it something like _"YourName_firstMockUp"_
+	    - Put a schematic in that folder. 
+	      - Hand drawn is fine.
+	      - [fritzing](http:fritzing.org) and [circuit.io](https://www.circuito.io/) are also nice for creating schematics.
 
 ### Week 6: Thursday, February 28, 2018 (President's day - but no holiday - classes held)
 - Workshop session - work on your Midterm Project!
