@@ -399,15 +399,16 @@ __The schedule is subject to change__
 
 ### Week 9: Thursday, March 21, 2019
 - Homework review
-#### Midterm Projects Critique (postponed from last week)
+#### Midterm Projects Critique (postponed from last week) 8:30 - 9:50am
 
 - Final Project Proposals: individual meetings
-    - [Cassie](https://github.com/CassieMKY)
-    - [Echo](https://github.com/Tingyubaba/Electronic-Design-625-1/)
-    - [Hannah](https://github.com/duststar0213/CCADigitalElectronics)
-    - [Kaiwen](https://github.com/kaiwenliu96/DESIGN-625-1.git)
-    - [Serene](https://github.com/Serenexiaopu/Electronic_Xiaopu_Deng)
-    - [Ted](https://github.com/tedchen0313/Digital-Electronics)
+   
+    - 10:00 [Ted](https://github.com/tedchen0313/Digital-Electronics)
+    - 10:30 [Kaiwen](https://github.com/kaiwenliu96/DESIGN-625-1.git)
+    - 10:40 [Serene](https://github.com/Serenexiaopu/Electronic_Xiaopu_Deng)
+    - 11:00 [Echo](https://github.com/Tingyubaba/Electronic-Design-625-1/)
+    - 11:20 [Cassie](https://github.com/CassieMKY)
+    - 11:40 [Hannah](https://github.com/duststar0213/CCADigitalElectronics)
 
 - Lecture
   - use the Arduino Language [Reference](https://www.arduino.cc/reference/en/)!
