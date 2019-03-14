@@ -326,7 +326,7 @@ __The schedule is subject to change__
   - work on your Midterm Project!
 - Fritzing demonstration
 - *Homework*
-  - Write a self-evaluation, email to me (stewari@cca.edu) by Friday, March 2 at noon. 
+  - Write a self-evaluation, email to me (stewari@cca.edu) by Friday, March 8 at noon. 
 		
 		Personal self-evaluation
 			- What have you learned?
@@ -336,7 +336,7 @@ __The schedule is subject to change__
 			- How would you grade your device? 
 			- What would you have done differently if you had to do the assignment over again?
 				
-  - Write a course evaluation, email to me (stewari@cca.edu) by Friday, March 2 at noon. 	
+  - Write a course evaluation, email to me (stewari@cca.edu) by Friday, March 8 at noon. 	
   
   		Course evaluation
 			- What further would you like to learn in this course?
@@ -353,14 +353,8 @@ __The schedule is subject to change__
     - video of your working project (upload to YouTube and post a link)
     - code (or a written description of what the code should do, if it's not yet working)
     - schematic showing the relevant connections from Arduino to sensors and output devices: hand-drawn or [Fritzing](http:fritzing.org)
-  - Write a concept proposal for your final project
-    - Your final project can be a fuly developed iteration of your midterm project incorporating "nice to have" functionality from the initial concept or additional functionality suggested by the first iteration.
-      - OR
-    - a new project, substantially more complex than the exercises you've done so far.
-    
-  - Documenting your project by creating an Instructable would be fantastic!! Just add a link to your Instructable in your GitHub repository.
-     
-     
+  - Documenting your project by creating an Instructable would be fantastic!! 
+ 
 ### Week 8: Thursday, March 14, 2019
 #### Midterm Projects DUE!!
 - Midterm Project presentations and critique
@@ -377,7 +371,7 @@ __The schedule is subject to change__
 	- Soldering circuits
 	- Examples
 	  - Resources: https://github.com/loopstick/ResourcesForClasses#inspiration-artists-movies-projects-etc
-	  - Instructables (Arduino category): http://www.instructables.com/technology/arduino/
+	  - Instructables Arduino category: http://www.instructables.com/technology/arduino/
 	  - Make: https://makezine.com/projects/
 	- Debugging techniques
 	- Counting and modulo
@@ -386,18 +380,33 @@ __The schedule is subject to change__
 	- Debouncing
 
 - *Homework*
-  - Please read and try to understand as much as possible. Be prepared to answer questions in class. It is OK if you don't understand everything, but it is not OK if you did not read:
-    - look up 3 functions you don't know on Arduino Reference: https://www.arduino.cc/reference/en/
-    - Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) 
+  - look up 3 functions you don't know on Arduino Reference: https://www.arduino.cc/reference/en/
+  - Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) 
       and think about whether the your project is doing something in a meaningful or unique way. Will someone want to play with your project for longer than 5 seconds? Why or why not?      
-    - Read the [Fritzing resources](https://github.com/loopstick/resourcesForClasses#fritzing-resources) 
-  on our [Resources](https://github.com/loopstick/resourcesForClasses) page
-    - __Due Week 10 (March 29):__ Create a __schematic__ in __Fritzing__ and then create a Printed Circuit Board (PCB) layout of that circuit. The schematic can be of any circuit you wish. Inclusion of Arduino is up to you. If you have no idea, create the first circuit on [this](http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge) page.
-  [Wayback archive](https://web.archive.org/web/20170816135325/http://teachmetomake.com/wordpress/arduino-tutorial-h-bridge)
+  - Write a concept proposal for your final project
+    - Your final project can be a fuly developed iteration of your midterm project incorporating "nice to have" functionality from the initial concept or additional functionality suggested by the first iteration.
+    
+		OR
+		
+    - a new project, substantially more complex than the exercises you've done so far.
+
+      - Upload this proposal to your Github repository in a new folder called "FinalProject"
+      - Create a very clear project description identifying the Minimal Viable Project and optional add-ons
+      - Include flow charts, block diagrams, and/or schematic diagrams that show the relevant electrical connections and flow
+      - Plan out desired functionality with written descriptions, flow-charts, and/or pseudo-code
+      - familiarize yourself with Fritzing (breadboard and PCB modes), this is a great way to create an easy to share bundle of your hardware and code.
+    
 
 ### Week 9: Thursday, March 21, 2019
 - Homework review
-  - Critique proposal concepts
+  - Final Project Proposals: individual meetings
+    - [Cassie](https://github.com/CassieMKY)
+    - [Echo](https://github.com/Tingyubaba/Electronic-Design-625-1/)
+    - [Hannah](https://github.com/duststar0213/CCADigitalElectronics)
+    - [Kaiwen](https://github.com/kaiwenliu96/DESIGN-625-1.git)
+    - [Serene](https://github.com/Serenexiaopu/Electronic_Xiaopu_Deng)
+    - [Ted](https://github.com/tedchen0313/Digital-Electronics)
+
 - Lecture
   - use the Arduino Language [Reference](https://www.arduino.cc/reference/en/)!
     - [setup()](https://www.arduino.cc/reference/en/language/structure/sketch/setup/)
