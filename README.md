@@ -362,7 +362,7 @@ __The schedule is subject to change__
   - Documentation and final project proposal review
 - Lecture
   - Frtizing!
-  - More Basics!!!
+  - More Basics - review
   	- Arduino Reference: https://www.arduino.cc/reference/en/
   	- Sensors
 	  - Electronic Theory Review
@@ -399,7 +399,9 @@ __The schedule is subject to change__
 
 ### Week 9: Thursday, March 21, 2019
 - Homework review
-  - Final Project Proposals: individual meetings
+#### Midterm Projects Critique (postponed from last week)
+
+- Final Project Proposals: individual meetings
     - [Cassie](https://github.com/CassieMKY)
     - [Echo](https://github.com/Tingyubaba/Electronic-Design-625-1/)
     - [Hannah](https://github.com/duststar0213/CCADigitalElectronics)
