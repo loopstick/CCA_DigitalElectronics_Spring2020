@@ -417,10 +417,6 @@ __The schedule is subject to change__
     - [functions](https://www.arduino.cc/en/Reference/FunctionDeclaration)
   - Control Structures
     - [if](https://www.arduino.cc/reference/en/language/structure/control-structure/if/)
-    - [break](https://www.arduino.cc/reference/en/language/structure/control-structure/break/)
-    - [switch case](https://www.arduino.cc/reference/en/language/structure/control-structure/switchcase/)	
-  - Interrupts
-    - [attach interrupt](https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/)
 - Sensors: 
   - What do you want to know? Do some research and ask specific questions. 
 - Start/keep working: 
@@ -466,24 +462,16 @@ __The schedule is subject to change__
       - http://www.thebox.myzen.co.uk/Tutorial/Arrays.html
       - https://www.arduino.cc/en/Tutorial/Arrays
 
-
 ### Week 10: Thursday, April 4, 2019
 - Quick project status reports
 - Lecture 
-  - review 
-    - Control Structures
-    - [if](https://www.arduino.cc/reference/en/language/structure/control-structure/if/)
-    - [break](https://www.arduino.cc/reference/en/language/structure/control-structure/break/)
-    - [switch case](https://www.arduino.cc/reference/en/language/structure/control-structure/switchcase/)	
-  - Interrupts
-    - [attach interrupt](https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/)
-    
-  - Fritzing review
+  - [For Loops](https://www.arduino.cc/reference/en/language/structure/control-structure/for/)
+    - [For Loop Iteration Tutorial](https://www.youtube.com/watch?v=bMsT8FeMQ-k)  
   - Soldering:
     - solid vs. stranded core wire - when to use
-    - https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all
+    - [Adafruit Guide to Excellent Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
+  - Fritzing review
   - Othermill demonstration!
-
 - Work: test, repair, iterate
 - *Homework*: 
   - Build any working part of your project 
@@ -491,14 +479,24 @@ __The schedule is subject to change__
 	and demonstrate it in class next week
 
 ### Week 11: Thursday, April 11, 2019
-- Critique working mock-up 
+- Critique working mock-ups 
+
+- review
+  - [if](https://www.arduino.cc/reference/en/language/structure/control-structure/if/)
+  
+- Control Structures
+  - [break](https://www.arduino.cc/reference/en/language/structure/control-structure/break/)
+  - [switch case](https://www.arduino.cc/reference/en/language/structure/control-structure/switchcase/)	
+  - Interrupts
+    - [attach interrupt](https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/)
+    
 - *Homework*
 	- Read [Physical Computing’s Greatest Hits (and
 		misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and
 		think about whether the your project is doing something in a meaningful or
 		unique way. Will someone want to play with your project for longer than 
 		5 seconds? Why or why not?
-	- Minimal Viable Project is due April 19
+	- Minimal Viable Project is due April 253
 		- Simplify your project if necessary
 		- If it is too simple you will have one week to add complexity
 
