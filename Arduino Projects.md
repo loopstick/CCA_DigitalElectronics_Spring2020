@@ -1,13 +1,22 @@
 - Instructables: 64 Arduino Projects
   - https://www.instructables.com/id/Arduino-Projects/?utm_source=newsletter&utm_medium=email
 
+- 143 Arduino Art Projects
+  https://create.arduino.cc/projecthub/projects/tags/art
+
 - Top 10 best Arduino projects
   - https://www.youtube.com/watch?v=39YUvCqxPSs
 
-- Glitter Bomb: 
+- Word Clock controlled by 114 servos:
+  https://www.instructables.com/id/Word-Clock-Controlled-by-114-Servos/
+
+- Arduino Marble Maze Labyrinth
+  https://www.instructables.com/id/Arduino-Marble-Maze-Labyrinth/?utm_source=newsletter&utm_medium=email
+
+- Glitter Bomb:
   - https://www.youtube.com/watch?v=xoxhDk-hwuo
 
-- Desk Bluetooth Speaker With Audio Visualisation, Touch Buttons and NFC.: 24 Steps (with Pictures)
+- Desk Bluetooth Speaker With Audio Visualization, Touch Buttons and NFC.: 24 Steps (with Pictures)
   - https://www.instructables.com/id/Desk-Bluetooth-Speaker-With-Audio-Visualisation-To/?utm_source=newsletter&utm_medium=email
 
 - Arduino Based flute player machine
@@ -15,6 +24,9 @@
 
 - Acoustic Radar display
   - https://www.instructables.com/id/Acoustic-Radar-Display/?utm_source=newsletter&utm_medium=email
+
+- 4000 Pixel Animated LED Mural [Cheap and Simple*]
+  - https://www.instructables.com/id/4000-Pixel-Animated-LED-Mural-Cheap-and-Simple/
 
 - LumiCube: a Lighting Assistant for Workspace - Example of top end final project grad design class
   - https://www.instructables.com/id/LumiCube-a-Lighting-Assistant-for-Workspace/
@@ -24,6 +36,9 @@
 
 - Gesture Controlled PPT changer
   - https://www.instructables.com/id/Gesture-Controlled-PPT-Changer/?utm_source=newsletter&utm_medium=email
+
+- Motion Tracking Face
+  - https://www.instructables.com/id/Motion-Tracking-Face/
 
 - Morse Code
   - http://www.instructables.com/id/Arduino-Morse-Code-1/
