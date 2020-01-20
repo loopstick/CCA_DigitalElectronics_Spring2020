@@ -142,7 +142,8 @@ __The schedule is subject to change__
 - Review schedule and syllabus: <https://github.com/loopstick/CCA_DigitalElectronics_Spring2020/>
 - Lecture
 	- Design Process
-	- Arduino project examples
+	- Arduino project examples: https://github.com/loopstick/CCA_DigitalElectronics_Spring2020/blob/master/Arduino%20Projects.md
+	- Inspirations: https://github.com/loopstick/ResourcesForClasses/blob/master/InspirationalLinks.md
 	- Lady Ada's [Learn Arduino Lesson #0](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/intro) [tour](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/take-a-tour)
   - Resources:
     - <https://github.com/loopstick/ResourcesForClasses>
