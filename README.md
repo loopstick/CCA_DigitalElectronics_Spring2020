@@ -21,8 +21,7 @@ The goal of this class is to teach you how to design, build, and debug digital e
 - start to make connections between technology, programming, and outcome goals
 
 #### Github and Class Repository
-We will be using a cloud service called Github. Our repository is at
-https://github.com/loopstick/CCA_DigitalElectronics_Spring2020
+We will be using a cloud service called Github. Our repository is at https://github.com/loopstick/CCA_DigitalElectronics_Spring2020
 
 The class repository will be used to assign homework and reading assignments, and will contain useful code, libraries, and links to other resources. Github allows you to receive email updates when a repository changes — take advantage of this feature!
 
