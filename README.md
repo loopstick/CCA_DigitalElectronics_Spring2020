@@ -144,8 +144,8 @@ __The schedule is subject to change__
 	- Design Process
 	- Arduino project examples
 	- Lady Ada's [Learn Arduino Lesson #0](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/intro) [tour](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/take-a-tour)
- - Resources:
-   - <https://github.com/loopstick/ResourcesForClasses>
+  - Resources:
+    - <https://github.com/loopstick/ResourcesForClasses>
 - Hands-on activity
   - Arduino Tutorial:
 	  - <https://github.com/loopstick/ArduinoTutorial/blob/master/README.md>
