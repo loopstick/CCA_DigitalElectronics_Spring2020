@@ -5,7 +5,7 @@
 * Title: IxD Foundations: Digital Electronics - DESGN-625-1
 * Class: Friday 8:00am - 11:00am, Room 107 SF Main (SF Hybrid Lab)
 * Instructor: Dr. Sudhu Tewari <stewari@cca.edu>
-* Office hours: 
+* Office hours:
 	* Friday 11:00am - 12:00pm
 	* at other times by appointment
 
@@ -13,12 +13,12 @@
 The goal of this class is to teach you how to design, build, and debug digital electronic devices. My goal is to make the course as interesting and relevant as possible for you, so please ask questions and bring up topics you are curious about.
 
 #### Learning Outcomes:
-- learn the basics of designing, building, and debugging digital electronic devices. 
-- learn elementary concepts of physical computing 
+- learn the basics of designing, building, and debugging digital electronic devices.
+- learn elementary concepts of physical computing
 - research through making and prototyping
 - work through versioning
 - understand and respond to technology constraints
-- start to make connections between technology, programming, and outcome goals 
+- start to make connections between technology, programming, and outcome goals
 
 #### Github and Class Repository
 We will be using a cloud service called Github. Our repository is at
@@ -26,19 +26,19 @@ https://github.com/loopstick/CCA_DigitalElectronics_Spring2020
 
 The class repository will be used to assign homework and reading assignments, and will contain useful code, libraries, and links to other resources. Github allows you to receive email updates when a repository changes — take advantage of this feature!
 
-You will be required to create your own repository for handing in homework and for project documentation. 
+You will be required to create your own repository for handing in homework and for project documentation.
 
 #### Required Textbook
 No textbook is required, but there are many good online references and a few good books out there I can recommend. We also have a good assortment of books in the library.
 
 #### Prerequisites
-* Basic algebra. You should be comfortable with simple equations,manipulating numbers, fractions, solving for variables, and the engineering prefixes (micro, milli, kilo, mega, etc.)
+* Basic algebra. You should be comfortable with simple equations, manipulating numbers, fractions, solving for variables, and the engineering prefixes (micro, milli, kilo, mega, etc.)
 
 #### Requirements and Expectations
 * Always bring your computer to class. If you don’t have a computer, check one out from the Media Center. You will need a computer to participate, and your grade will be negatively affected if you don’t bring one.
 * Always bring your Arduino, breadboard, jumper wires, sensors, etc. to class.
 * I recommend keeping a dedicated notebook for this class. Keep your project sketches, schematics, punch lists, and class notes in this notebook. You can also scan your notes, sketches, etc and post them in your GitHub repository.
-* Participate in class! Ask questions, guess answers, propose topics, share interesting projects you’ve found, push the envelope, explore your interests, and teach us all! There are no stupid questions; admitting when you don’t know something should be a point of pride. Chances are you’re not the only one with a question, just the bravest one. 
+* Participate in class! Ask questions, guess answers, propose topics, share interesting projects you’ve found, push the envelope, explore your interests, and teach us all! There are no stupid questions; admitting when you don’t know something should be a point of pride. Chances are you’re not the only one with a question, just the bravest one.
 * As outlined in the CCA Student Handbook, attendance in class is mandatory. Three or more unexcused absences will result in a failing grade.
 * Plan to spend 3-12 hours a week on homework. Plan ahead!
 * Submit your homework on time.  Organize your GitHub repository to be easy to navigate. Attend class, and don’t be late. These are not requests, these are requirements.
@@ -64,14 +64,14 @@ I will consider the various components of the class in roughly the following pro
 * 10% Attendance & Participation
 
 #### Grading Rubric
- 
+
 **A: Excellent.** You’ve exhibited exemplary conceptual, technical and
 perceptual ability implementing projects. You’ve demonstrated a deft
 understanding of required readings, and ability to successfully
 communicate ideas and processes to others. All work is commented and
-clearly demonstrates understanding of each lesson. 
+clearly demonstrates understanding of each lesson.
 
-**B: Good.** You’ve completed assignments, and demonstrated a grasp of 
+**B: Good.** You’ve completed assignments, and demonstrated a grasp of
 most of the main aspects of each lesson, but not all. You’re able to
 communicate information, and step by step processes well. In projects,
 conceptual, perceptual, and technical skills are present.
@@ -79,7 +79,7 @@ conceptual, perceptual, and technical skills are present.
 **C: Satisfactory.** You’ve completed the assignments but may lack
 enthusiasm or drive to push the work into detailed display of
 comprehension. You have not demonstrated comprehensive knowledge of
-the application or programming environment. 
+the application or programming environment.
 
 **D: Unsatisfactory.** You have not completed the work as assigned.
 Substantial problems exist in your work.
@@ -94,14 +94,14 @@ This class should be both fun and intense. It’s most fun when you enjoy what y
 
 #### Required equipment
 - _Arduino Uno R3__ e.g. from
-	[Arduino](https://store-usa.arduino.cc/products/a000066) or 
+	[Arduino](https://store-usa.arduino.cc/products/a000066) or
 	[Sparkfun](https://www.sparkfun.com/products/11021) or
 	[Jameco](https://www.jameco.com/z/A000066-Arduino-Arduino-Uno-R3-DIP-Edition-Revision-3-_2151486.html) or
   	[Arduino](https://www.amazon.com/gp/product/B00CBZ4CII/3) via
-	[Amazon](https://www.amazon.com/gp/product/B008GRTSV6/ref=ox_sc_act_title_1?smid=AA57DDZKZUZDL&psc=1).	
+	[Amazon](https://www.amazon.com/gp/product/B008GRTSV6/ref=ox_sc_act_title_1?smid=AA57DDZKZUZDL&psc=1).
     - Not recommended: Arduino compatibles, especially those from untested sources. Many sellers on Amazon or Ebay are selling cut-rate knock offs that _sometimes_ work and sometimes _do not_.
     - Also not recommended: [Adafruit Metro - Uno compatible](https://www.adafruit.com/products/50). Although Adafruit is typically a great source, the Metro FTDI drivers are less than simple and straightforward to get working and keep working consistently.
-    
+
 - _Solderless breadboard_, full size (also known as 830 tie point) e.g. from
 	[Jameco](http://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?search_type=jamecoall&catalogId=10001&freeText=2157706&langId=-1&productId=2157706&storeId=10001&ddkey=http:StoreCatalogDrillDownView)
 - Full size _USB cable_ (type A to type B) e.g. from [Jameco](https://www.jameco.com/z/10U2-02203-BK-Cable-USB2-0-A-B-3-Feet-Black-USB-A-Male-To-USB-B-Male_222608.html)
@@ -119,11 +119,11 @@ The code ADAEDU may be good for 10% educational discount at Adafruit.
 Local stores that should carry all these are:
 * [Jameco](http://www.jameco.com) in Belmont, just south of the SFO airport. Order online and pick up same day.
 * [Al Lasher's Electronics](http://allashers.com/) in Berkeley
-* [Fry's Electronics](http://www.frys.com) (various locations in South Bay) has some electronic supplies 
+* [Fry's Electronics](http://www.frys.com) (various locations in South Bay) has some electronic supplies
 
 
 #### Optional equipment
-As you develop your projects and interests, you might need to purchase additional components and devices. This is impossible to predict as the range of projects you might approach are indeed infinite. At the low end, you can build amazing projects from discarded electronic devices such as printers at absolutely no cost; at the high end there is no limit; a complicated robotic project could easily start at hundreds of dollars. 
+As you develop your projects and interests, you might need to purchase additional components and devices. This is impossible to predict as the range of projects you might approach are indeed infinite. At the low end, you can build amazing projects from discarded electronic devices such as printers at absolutely no cost; at the high end there is no limit; a complicated robotic project could easily start at hundreds of dollars.
 
 #### Some lessons I’ve learned:
 - Projects will cost more than you think they will
@@ -150,38 +150,38 @@ __The schedule is subject to change__
   - Lady Ada's [Learn Arduino Lesson #0](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/intro) [tour](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/take-a-tour) is a great place to start.
 - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses)<https://github.com/loopstick/ResourcesForClasses>
 - *Homework*
-  - Review the Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md) we did in class. 
+  - Review the Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md) we did in class.
     - play around with what you've learned so far!
   - CODE CHALLENGE: make something interesting happen with 2 or more LEDs
   - Check out any equipment you need from the Hybrid Lab.
   - Order the required equipment so you can have your very own Arduino, breadboard, etc.
   - Create your Github repository using [this guide](https://github.com/zamfi/github-guide) and email me the URL to your repository (stewari@cca.edu)
 
-### Week 2: Thursday, January 31, 2020
+### Week 2: Friday, January 31, 2020
 ## OUTPUT: Ohm's Law and Electronic Components
   - Review schedule
-  - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
+  - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses)
   - Lecture
     - Ohm's Law
       - https://www.youtube.com/watch?v=-mHLvtGjum4   
       - https://itp.nyu.edu/physcomp/videos/videos-electricity/   
-    - Electronic Components: [Lecture PDF](https://www.dropbox.com/s/9xceo0o2cbluge0/DrSudhu_ElecComponents_v2.pdf?dl=0) 
+    - Electronic Components: [Lecture PDF](https://www.dropbox.com/s/9xceo0o2cbluge0/DrSudhu_ElecComponents_v2.pdf?dl=0)
     - Voltage dividers: potentiometers and LDRs
-      - multimeter demo 
+      - multimeter demo
   - Hands-on activity:
     - LED and LDR example from the Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md)
     - Analog Input (File->Examples->Analog->AnalogInput)
-    
+
   - Demonstration
     - High Current control (Motors or _lots_ of LEDs)
       - Transistors
       - Power supplies
       - Arduino architecture: Vin vs 5v  regulated power
-      
+
   - *Homework:*
     - Read __all four__ of the [Multitasking Resources](https://github.com/loopstick/ResourcesForClasses#arduino-multitasking-resources-how-to-blink-an-led-without-using-delay) in [resources](https://github.com/loopstick/ResourcesForClasses).
-    - Find (online) an Arduino project that you find interesting. 
-      - Write a brief description and put a link in the README.md file in your Github repository. 
+    - Find (online) an Arduino project that you find interesting.
+      - Write a brief description and put a link in the README.md file in your Github repository.
     - CODE CHALLENGE: make something interesting happen using an LDR and an LED.
       - use an LDR to sense your shadow, so that the LED fades on when your shadow falls on the sensor.
       - make the LED turn off when your shadow falls on the LDR  
@@ -193,7 +193,7 @@ __The schedule is subject to change__
       - AnalogInput modified to work without using delay():
       [AnalogInputWithoutDelay](https://github.com/loopstick/CCA_DigitalElectronics_Spring2020/blob/master/examples/AnalogInputWithoutDelay/AnalogInputWithoutDelay.ino)
 
-### Week 3: Thursday, February 7, 2020
+### Week 3: Friday, February 7, 2020
 ## INPUT: Sensors and multi-tasking
 - Homework review
   - sensors
@@ -201,11 +201,11 @@ __The schedule is subject to change__
 - lecture
   - multi-tasking
   - Blink without Delay
-- Hands-on activity: 
+- Hands-on activity:
   - Blink without Delay: Turn LEDs on and off without using delay!!
   - poll a sensor continually while performing other tasks
 - *Homework:*
-	- Propose a device for your midterm project _that does something_ "interesting". 
+	- Propose a device for your midterm project _that does something_ "interesting".
 	  - At minimum your project should make use of **TWO input sensors** and **TWO kinds of output**.
 	  - We will discuss project ideas in class and you can always email me if you need help deciding what to do.
 	  - Deliver the following in your Github repository:
@@ -217,7 +217,7 @@ __The schedule is subject to change__
 		  - break the full project into smaller, more manageable pieces
 		    - identify which pieces are necessary for a minimum viable product (i.e. essential)
 		    - identify which pieces are "nice to have" (i.e. non-essential)
-	    - Don't forget that there is a Github cheat sheet in the section of 
+	    - Don't forget that there is a Github cheat sheet in the section of
 	[Github resources](https://github.com/loopstick/ResourcesForClasses#github-resources) in our
 	[resources](https://github.com/loopstick/resourcesForClasses) repository
 	- Do some research to find 3 sensors that interest you
@@ -225,20 +225,20 @@ __The schedule is subject to change__
 	     - Adafruit's sensors (https://www.adafruit.com/category/35)
 	     - Sparkfun sensors (https://www.sparkfun.com/categories/23?page=all)
 	   - google " arduino sensors" and see what you find!
-	   - Read about a few common sensors in the [Adafruit Sensors guide](http://www.ladyada.net/learn/sensors/) 
+	   - Read about a few common sensors in the [Adafruit Sensors guide](http://www.ladyada.net/learn/sensors/)
            - Describe (briefly) what you've learned in your Github READ.md file.
 
-### Week 4: Thursday, February 14, 2020
+### Week 4: Friday, February 14, 2020
 - present inspirational projects (homework from Week 2)
 - talk about sensors!
 - Review midterm project proposals
-  - Resources for realizing project ideas: 
+  - Resources for realizing project ideas:
     - [Google](https://lmgtfy.com/)!
     - [Instructables](https://www.instructables.com/)
     - [Hackaday](https://hackaday.com/)
     - [online electronics retailers[(https://github.com/loopstick/ResourcesForClasses/blob/master/README.md#online-electronics-retailers) on our [class resources](https://github.com/loopstick/ResourcesForClasses/) page.
   - ["Punch List"](https://en.wikipedia.org/wiki/Punch_list)
-  - [Proof of Concept](https://en.wikipedia.org/wiki/Proof_of_concept) 
+  - [Proof of Concept](https://en.wikipedia.org/wiki/Proof_of_concept)
   and [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
 - Lecture:
   - Debugging and troubleshooting
@@ -246,7 +246,7 @@ __The schedule is subject to change__
       - [Arduino Print](https://www.arduino.cc/en/serial/print)
       - [Arduino Serial.print](https://www.arduino.cc/reference/en/language/functions/communication/serial/print/)
     - multimeters
-      - [Adafruit Multimeter Overview](https://learn.adafruit.com/multimeters?view=all) 
+      - [Adafruit Multimeter Overview](https://learn.adafruit.com/multimeters?view=all)
       - [Sparkfun: How to use a Multimeter](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter)
     - troubleshooting basics
       - [Troubleshooting](https://www.arduino.cc/en/guide/troubleshooting)
@@ -255,7 +255,7 @@ __The schedule is subject to change__
     - Input and Output ranges
       - math and scaling
       - potentiometers
-- Hands-on activity: 
+- Hands-on activity:
   - Debugging techniques
     - Compiling vs. uploading
     - Syntax error vs. logic error
@@ -263,13 +263,13 @@ __The schedule is subject to change__
     - Using the Digital Multimeter
   - See ["debugging"](https://github.com/loopstick/resourcesForClasses#debugging) in our class [resources](https://github.com/loopstick/resourcesForClasses)
     - Asking for help:
-      - First try to figure it out on your own. 
+      - First try to figure it out on your own.
         - Google is great here.
       - Upload your code to Github (or email it)
         - remember that Arduino .ino files must live in a folder of the same name along with any other associated files, so zips work well to keep everything together
         - The file/folder name should make sense (i.e. _"Sudhu_MidtermProj_v3"_ vs _"file_012619"_)
-      - Explain the problem to me (or whoever you are asking) 
-        
+      - Explain the problem to me (or whoever you are asking)
+
 - *Homework*
 	- Build a mock-up of a simplified version of your _device that does something_ (previously: musical instrument)
 		- You may modify your proposal to make use of anything new you've learned
@@ -286,15 +286,15 @@ __The schedule is subject to change__
 			- Email me if you have questions
 			- Make a new folder on your Github repository for this project
 				- Put your code in that folder. Call it something like _"YourName_firstMockUp"_
-				- Put a schematic in that folder. 
+				- Put a schematic in that folder.
 				  - Hand drawn is fine.
-				  - [fritzing](http:fritzing.org) and [circuit.io](https://www.circuito.io/) 
+				  - [fritzing](http:fritzing.org) and [circuit.io](https://www.circuito.io/)
 				  are also nice for creating schematics.
-  
 
-### Week 5: Thursday, February 21, 2020
+
+### Week 5: Friday, February 21, 2020
 - Review midterm project ideas
-- Hands-on activity: 
+- Hands-on activity:
   - work on Midterm Projects!
   - Soldering
 - Lecture
@@ -305,11 +305,11 @@ __The schedule is subject to change__
 	- As always: Email me if you have questions
 	- Make a new folder on your Github repository for this project
           - Put your code in that folder. Call it something like _"YourName_firstMockUp"_
-	    - Put a schematic in that folder. 
+	    - Put a schematic in that folder.
 	      - Hand drawn is fine.
 	      - [fritzing](http:fritzing.org) and [circuit.io](https://www.circuito.io/) are also nice for creating schematics.
 
-### Week 6: Thursday, February 28, 2020 
+### Week 6: Friday, February 28, 2020
 - Workshop session - work on your Midterm Project!
 - *Homework*
   - Work on your Midterm project – Due week 8 !
@@ -317,31 +317,31 @@ __The schedule is subject to change__
        - email me if you have questions!
 
 
-### Week 7: Thursday, March 7, 2020
-- Workshop session 
+### Week 7: Friday, March 6, 2020
+- Workshop session
   - work on your Midterm Project!
 - Fritzing demonstration
 - *Homework*
-  - Write a self-evaluation, email to me (stewari@cca.edu) by Friday, March 8 at noon. 
-		
+  - Write a self-evaluation, email to me (stewari@cca.edu) by Friday, March 8 at noon.
+
 		Personal self-evaluation
 			- What have you learned?
 			- What are your goals for the rest of the semester?
 			- What obstacles will you face in achieving these goals?
 			- How do you plan to overcome those obstacles?
-			- How would you grade your device? 
+			- How would you grade your device?
 			- What would you have done differently if you had to do the assignment over again?
-				
+
   - Write a course evaluation, email to me (stewari@cca.edu) by Friday, March 8 at noon. 	
-  
+
   		Course evaluation
 			- What further would you like to learn in this course?
 			- What would you like to change in the course material?
 			- What would you like to change in the way the material is delivered?
 			- What would you add to this class?
 			- What would you remove from this class?
-			
-- *Homework* due next week. 
+
+- *Homework* due next week.
   - complete documentation of your midterm project posted in a folder on GitHub including
     - written description of your concept (this can be taken from your original project proposal)
     - drawing of your initial concept
@@ -349,9 +349,9 @@ __The schedule is subject to change__
     - video of your working project (upload to YouTube and post a link)
     - code (or a written description of what the code should do, if it's not yet working)
     - schematic showing the relevant connections from Arduino to sensors and output devices: hand-drawn or [Fritzing](http:fritzing.org)
-  - Documenting your project by creating an Instructable would be fantastic!! 
- 
-### Week 8: Thursday, March 14, 2020
+  - Documenting your project by creating an Instructable would be fantastic!!
+
+### Week 8: Friday, March 13, 2020
 #### Midterm Projects DUE!!
 - Midterm Project presentations and critique
 - Evaluation feedback
@@ -377,13 +377,13 @@ __The schedule is subject to change__
 
 - *Homework*
   - look up 3 functions you don't know on Arduino Reference: https://www.arduino.cc/reference/en/
-  - Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) 
+  - Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/)
       and think about whether the your project is doing something in a meaningful or unique way. Will someone want to play with your project for longer than 5 seconds? Why or why not?      
   - Write a concept proposal for your final project
     - Your final project can be a fuly developed iteration of your midterm project incorporating "nice to have" functionality from the initial concept or additional functionality suggested by the first iteration.
-    
+
 		OR
-		
+
     - a new project, substantially more complex than the exercises you've done so far.
 
       - Upload this proposal to your Github repository in a new folder called "FinalProject"
@@ -391,14 +391,14 @@ __The schedule is subject to change__
       - Include flow charts, block diagrams, and/or schematic diagrams that show the relevant electrical connections and flow
       - Plan out desired functionality with written descriptions, flow-charts, and/or pseudo-code
       - familiarize yourself with Fritzing (breadboard and PCB modes), this is a great way to create an easy to share bundle of your hardware and code.
-    
 
-### Week 9: Thursday, March 21, 2020
+
+### Week 9: Friday, March 20, 2020
 - Homework review
 #### Midterm Projects Critique (postponed from last week) 8:30 - 9:50am
 
 - Final Project Proposals: individual meetings
-   
+
     - 10:00 [Ted](https://github.com/tedchen0313/Digital-Electronics)
     - 10:30 [Kaiwen](https://github.com/kaiwenliu96/DESIGN-625-1.git)
     - 10:40 [Serene](https://github.com/Serenexiaopu/Electronic_Xiaopu_Deng)
@@ -413,9 +413,9 @@ __The schedule is subject to change__
     - [functions](https://www.arduino.cc/en/Reference/FunctionDeclaration)
   - Control Structures
     - [if](https://www.arduino.cc/reference/en/language/structure/control-structure/if/)
-- Sensors: 
-  - What do you want to know? Do some research and ask specific questions. 
-- Start/keep working: 
+- Sensors:
+  - What do you want to know? Do some research and ask specific questions.
+- Start/keep working:
   - Research, mock-ups, test ideas and concepts
 - Demonstration: 	
   - Fritzing and Othermill
@@ -425,7 +425,7 @@ __The schedule is subject to change__
 		circuit into that folder
 	- Final project proposals and prototype
 		- Build a prototype to verify the most difficult part of your project
-		- Research 
+		- Research
 		- Order or check out equipment
 		- Create a very clear project description identifying the Minimal Viable Project and optional add-ons
 		- Include flow charts, block diagrams, and pseudo-code
@@ -439,7 +439,7 @@ __The schedule is subject to change__
 			- Unused variables and statements should be removed
 		- You will be graded on these points
 
-### Spring Break: Thursday, March 28, 2020
+### Spring Break: Friday, March 27, 2020
 - Research, build mock-ups, test ideas and concepts
   - If you get bored on break:
     - Read the __Classes and Objects__ resources on our [resources](https://github.com/loopstick/resourcesForClasses) page
@@ -449,7 +449,7 @@ __The schedule is subject to change__
       - https://www.arduino.cc/en/Tutorial/StateChangeDetection
       - http://www.ladyada.net/learn/arduino/lesson5.html
       - https://programmingelectronics.com/tutorial-18-state-change-detection-and-the-modulo-operator-old-version/
-    - Debouncing: 
+    - Debouncing:
       - https://www.arduino.cc/en/tutorial/debounce
     - Arrays:
       - https://www.tutorialspoint.com/arduino/arduino_arrays.htm>
@@ -458,9 +458,9 @@ __The schedule is subject to change__
       - http://www.thebox.myzen.co.uk/Tutorial/Arrays.html
       - https://www.arduino.cc/en/Tutorial/Arrays
 
-### Week 10: Thursday, April 4, 2020
+### Week 10: Friday, April 4, 2020
 - Quick project status reports
-- Lecture 
+- Lecture
   - [For Loops](https://www.arduino.cc/reference/en/language/structure/control-structure/for/)
     - [For Loop Iteration Tutorial](https://www.youtube.com/watch?v=bMsT8FeMQ-k)  
   - Soldering:
@@ -469,28 +469,28 @@ __The schedule is subject to change__
   - Fritzing review
   - Othermill demonstration!
 - Work: test, repair, iterate
-- *Homework*: 
-  - Build any working part of your project 
-	(preferably the part you are most concerned about) 
+- *Homework*:
+  - Build any working part of your project
+	(preferably the part you are most concerned about)
 	and demonstrate it in class next week
 
 ### Week 11: Friday, April 10, 2020
-- Critique working mock-ups 
+- Critique working mock-ups
 
 - review
   - [if](https://www.arduino.cc/reference/en/language/structure/control-structure/if/)
-  
+
 - Control Structures
   - [break](https://www.arduino.cc/reference/en/language/structure/control-structure/break/)
-  - [switch case](https://www.arduino.cc/reference/en/language/structure/control-structure/switchcase/)	
+  - [switch case](https://www.arduino.cc/reference/en/language/structure/control-structure/switchcase/)
   - Interrupts
     - [attach interrupt](https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/)
-    
+
 - *Homework*
 	- Read [Physical Computing’s Greatest Hits (and
 		misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and
 		think about whether the your project is doing something in a meaningful or
-		unique way. Will someone want to play with your project for longer than 
+		unique way. Will someone want to play with your project for longer than
 		5 seconds? Why or why not?
 	- Minimal Viable Project is due April 253
 		- Simplify your project if necessary
@@ -503,7 +503,7 @@ __The schedule is subject to change__
 - Demonstrate working minimal viable project (MVP)
 
 ### Week 14: Friday, May 1, 2020
-- Review end of semester schedule 
+- Review end of semester schedule
 - Review Interface Show spreadsheet
 - Interface Show Plaque
 - Review final project writeup
@@ -518,9 +518,9 @@ __The schedule is subject to change__
 	- Accurate schematic
 	- Parts list (major or unique parts, not LEDs, wire, etc.)
 	- A few pictures of overall project plus some close ups of the electronics
-		and any mechanism (cellphone is fine) 
+		and any mechanism (cellphone is fine)
 	- A short video (cellphone is fine) of the operational project
-	- Program(s) must be well commented 
+	- Program(s) must be well commented
 		- Each variable must have a meaningful name
 		- Each section (function, code block, loop, whatever) must be explained
 		- All unused variables and code must be removed (debugging code
@@ -537,29 +537,29 @@ __The schedule is subject to change__
 	7PM to 9:30PM
 	Oliver Art Center
 	California College of the Arts
-	5212 Broadway, Oakland 
+	5212 Broadway, Oakland
 
 
 ## Student Repositories
 CCA DigitalElec Spring2020 GitHub Repositories
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
- - 
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
+ -
  -  
- 
- 
- 
- 
- 
- 
- 
+
+
+
+
+
+
+
 CCA DigitalElec Spring2019 GitHub Repositories
 - [Cassie](https://github.com/CassieMKY)
 - [Echo](https://github.com/Tingyubaba/Electronic-Design-625-1/)
@@ -567,7 +567,3 @@ CCA DigitalElec Spring2019 GitHub Repositories
 - [Kaiwen](https://github.com/kaiwenliu96/DESIGN-625-1.git)
 - [Serene](https://github.com/Serenexiaopu/Electronic_Xiaopu_Deng)
 - [Ted](https://github.com/tedchen0313/Digital-Electronics)
-
-
-
-
