@@ -139,7 +139,7 @@ __The schedule is subject to change__
 ### Week 1: Friday, January 24, 2020
 ## Introductions: Administravia and Arduino
 - Interests and goals
-- Review schedule and syllabus: <https://github.com/loopstick/CCA_DigitalElectronics_Spring2019/>
+- Review schedule and syllabus: <https://github.com/loopstick/CCA_DigitalElectronics_Spring2020/>
 - Lecture
   - Electronics Basics
     - circuits: complete, open, closed, and short
