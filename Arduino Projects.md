@@ -17,7 +17,7 @@ Hackster.io: <https://www.hackster.io/>
 
 [Glitter Bomb](https://www.youtube.com/watch?v=xoxhDk-hwuo)
 
-[Desk Bluetooth Speaker With Audio Vizualisation)](https://www.instructables.com/id/Desk-Bluetooth-Speaker-With-Audio-Visualisation-To/?utm_source=newsletter&utm_medium=email)
+[Desk Bluetooth Speaker With Audio Vizualisation](https://www.instructables.com/id/Desk-Bluetooth-Speaker-With-Audio-Visualisation-To/?utm_source=newsletter&utm_medium=email)
 
 [Arduino Based flute player machine](https://www.instructables.com/id/Arduino-Based-Flute-Player-Machine/?utm_source=newsletter&utm_medium=email)
 
@@ -46,25 +46,21 @@ Hackster.io: <https://www.hackster.io/>
 [Use an LED Matrix as a scanner](https://www.instructables.com/id/Using-a-LED-Matrix-As-a-Scanner/?utm_source=newsletter&utm_medium=email)
 
 
-MUSIC
-[Top 10 best Arduino Music projects](https://www.youtube.com/watch?v=39YUvCqxPSs)
 
-[Yellow Drum Robot](https://www.robotshop.com/community/robots/show/yellow-drum-machine)
-<https://www.robotshop.com/community/forum/t/how-to-make-a-yellow-drum-machine/12827> - not Arduino
 
-[PonyTrap Drum Machine](https://makezine.com/projects/make-robotic-drum-using-arduino-uno/)
 
-[DrumCube - Arduino Robot Drummer](https://www.instructables.com/id/DrumCube-an-Arduino-Robot-Drummer/)
 
-[kravox - Music Controller](https://www.youtube.com/watch?v=TqVoGDyDfKg&feature=youtu.be)
-
-[vtol: Mayak](https://create.arduino.cc/projecthub/vtol/vtol-mayak-c05f3e?ref=tag&ref_id=art&offset=39)
-
-[Sound compass](https://create.arduino.cc/projecthub/touchmysound/automatizing-percussion-with-solenoids-the-sound-compass-ce30b5?ref=tag&ref_id=art&offset=46)
-
-[atmega328p should support lotsa noises. Here's a wavetable synth shown running on a nano](https://makezine.com/projects/make-35/advanced-arduino-sound-synthesis/)
-
-[Mozzi audio synthesis library for Arduino](https://sensorium.github.io/Mozzi/) - Looks pretty useful
+MUSIC -
+- [Top 10 best Arduino Music projects](https://www.youtube.com/watch?v=39YUvCqxPSs)
+- [Yellow Drum Robot](https://www.robotshop.com/community/robots/show/yellow-drum-machine)
+- Yellow Drum Robot - not Arduino](https://www.robotshop.com/community/forum/t/how-to-make-a-yellow-drum-machine/12827)
+- [PonyTrap Drum Machine](https://makezine.com/projects/make-robotic-drum-using-arduino-uno/)
+- [DrumCube - Arduino Robot Drummer](https://www.instructables.com/id/DrumCube-an-Arduino-Robot-Drummer/)
+- [kravox - Music Controller](https://www.youtube.com/watch?v=TqVoGDyDfKg&feature=youtu.be)
+- [vtol: Mayak](https://create.arduino.cc/projecthub/vtol/vtol-mayak-c05f3e?ref=tag&ref_id=art&offset=39)
+- [Sound compass](https://create.arduino.cc/projecthub/touchmysound/automatizing-percussion-with-solenoids-the-sound-compass-ce30b5?ref=tag&ref_id=art&offset=46)
+- [atmega328p should support lotsa noises. Here's a wavetable synth shown running on a nano](https://makezine.com/projects/make-35/advanced-arduino-sound-synthesis/)
+- [Mozzi audio synthesis library for Arduino](https://sensorium.github.io/Mozzi/) - Looks pretty useful
 
 
 
