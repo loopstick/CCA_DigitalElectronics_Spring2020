@@ -147,9 +147,12 @@ __The schedule is subject to change__
     - voltage, current, resistance, and power
     - metric prefixes
 - Hands-on activity
-  - Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md) <https://github.com/loopstick/ArduinoTutorial/blob/master/README.md>
+  - [Arduino Tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md)
+	  - <https://github.com/loopstick/ArduinoTutorial/blob/master/README.md>
   - Lady Ada's [Learn Arduino Lesson #0](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/intro) [tour](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/take-a-tour) is a great place to start.
-- Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses)<https://github.com/loopstick/ResourcesForClasses>
+- Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses)
+  - <https://github.com/loopstick/ResourcesForClasses>
+
 - *Homework*
   - Review the Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md) we did in class.
     - play around with what you've learned so far!
