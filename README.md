@@ -145,7 +145,7 @@ __The schedule is subject to change__
 	- Arduino project examples
 	- Lady Ada's [Learn Arduino Lesson #0](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/intro) [tour](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/take-a-tour)
  - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses)
-   - <https://github.com/loopstick/ResourcesForClasses>
+  - <https://github.com/loopstick/ResourcesForClasses>
 - Hands-on activity
   - [Arduino Tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md)
 	  - <https://github.com/loopstick/ArduinoTutorial/blob/master/README.md>
@@ -243,7 +243,7 @@ __The schedule is subject to change__
     - [Google](https://lmgtfy.com/)!
     - [Instructables](https://www.instructables.com/)
     - [Hackaday](https://hackaday.com/)
-    - [online electronics retailers[(https://github.com/loopstick/ResourcesForClasses/blob/master/README.md#online-electronics-retailers) on our [class resources](https://github.com/loopstick/ResourcesForClasses/) page.
+    - [online electronics retailers](https://github.com/loopstick/ResourcesForClasses/blob/master/README.md#online-electronics-retailers) on our [class resources](https://github.com/loopstick/ResourcesForClasses/) page.
   - ["Punch List"](https://en.wikipedia.org/wiki/Punch_list)
   - [Proof of Concept](https://en.wikipedia.org/wiki/Proof_of_concept)
   and [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
@@ -359,8 +359,7 @@ __The schedule is subject to change__
   - Documenting your project by creating an Instructable would be fantastic!!
 
 ### Week 8: Friday, March 13, 2020
-#### Midterm Projects DUE!!
-- Midterm Project presentations and critique
+#### Midterm Projects Critique  8:30 - 9:50am
 - Evaluation feedback
   - Documentation and final project proposal review
 - Lecture
@@ -383,11 +382,10 @@ __The schedule is subject to change__
 	- Debouncing
 
 - *Homework*
-  - look up 3 functions you don't know on Arduino Reference: https://www.arduino.cc/reference/en/
   - Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/)
       and think about whether the your project is doing something in a meaningful or unique way. Will someone want to play with your project for longer than 5 seconds? Why or why not?      
   - Write a concept proposal for your final project
-    - Your final project can be a fuly developed iteration of your midterm project incorporating "nice to have" functionality from the initial concept or additional functionality suggested by the first iteration.
+    - Your final project can be a fully developed iteration of your midterm project incorporating "nice to have" functionality from the initial concept or additional functionality suggested by the first iteration.
 
 		OR
 
@@ -401,17 +399,13 @@ __The schedule is subject to change__
 
 
 ### Week 9: Friday, March 20, 2020
-- Homework review
-#### Midterm Projects Critique (postponed from last week) 8:30 - 9:50am
-
 - Final Project Proposals: individual meetings
-
-    - 10:00 [Ted](https://github.com/tedchen0313/Digital-Electronics)
-    - 10:30 [Kaiwen](https://github.com/kaiwenliu96/DESIGN-625-1.git)
-    - 10:40 [Serene](https://github.com/Serenexiaopu/Electronic_Xiaopu_Deng)
-    - 11:00 [Echo](https://github.com/Tingyubaba/Electronic-Design-625-1/)
-    - 11:20 [Cassie](https://github.com/CassieMKY)
-    - 11:40 [Hannah](https://github.com/duststar0213/CCADigitalElectronics)
+    - 10:00
+    - 10:30
+    - 10:40
+    - 11:00
+    - 11:20
+    - 11:40
 
 - Lecture
   - use the Arduino Language [Reference](https://www.arduino.cc/reference/en/)!
