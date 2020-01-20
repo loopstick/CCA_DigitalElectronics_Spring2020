@@ -96,16 +96,16 @@ This class should be both fun and intense. It’s most fun when you enjoy what y
 - _Arduino Uno R3__ e.g. from
 	[Arduino](https://store-usa.arduino.cc/products/a000066) or
 	[Sparkfun](https://www.sparkfun.com/products/11021) or
-	[Jameco](https://www.jameco.com/z/A000066-Arduino-Arduino-Uno-R3-DIP-Edition-Revision-3-_2151486.html) or
-  	[Arduino](https://www.amazon.com/gp/product/B00CBZ4CII/3) via
+	[Jameco](https://www.jameco.com/z/A000066-Arduino-Arduino-Uno-R3-DIP-Edition-Revision-3-_2151486.html) or [Arduino](https://www.amazon.com/gp/product/B00CBZ4CII/3) via
 	[Amazon](https://www.amazon.com/gp/product/B008GRTSV6/ref=ox_sc_act_title_1?smid=AA57DDZKZUZDL&psc=1).
-    - Not recommended: Arduino compatibles, especially those from untested sources. Many sellers on Amazon or Ebay are selling cut-rate knock offs that _sometimes_ work and sometimes _do not_.
+    - Not recommended: Arduino compatibles, especially those from untested sources. Some sellers on Amazon or Ebay are selling cut-rate knock offs that _sometimes_ work and sometimes _do not_.
     - Also not recommended: [Adafruit Metro - Uno compatible](https://www.adafruit.com/products/50). Although Adafruit is typically a great source, the Metro FTDI drivers are less than simple and straightforward to get working and keep working consistently.
 
 - _Solderless breadboard_, full size (also known as 830 tie point) e.g. from
 	[Jameco](http://www.jameco.com/webapp/wcs/stores/servlet/ProductDisplay?search_type=jamecoall&catalogId=10001&freeText=2157706&langId=-1&productId=2157706&storeId=10001&ddkey=http:StoreCatalogDrillDownView) or [Adafruit](https://www.adafruit.com/product/239)
 
-- Full size _USB cable_ (type A to type B) e.g. from [Jameco](https://www.jameco.com/z/10U2-02203-BK-Cable-USB2-0-A-B-3-Feet-Black-USB-A-Male-To-USB-B-Male_222608.html)
+- Full size _USB cable_ (type A to type B) e.g. from [Jameco](https://www.jameco.com/z/10U2-02203-BK-Cable-USB2-0-A-B-3-Feet-Black-USB-A-Male-To-USB-B-Male_222608.html) or [Adafruit] (https://www.adafruit.com/product/62)
+
 - Pack of _jumper wires_ e.g. from [Jameco](https://www.jameco.com/z/MKSEEED3-65-Piece-Reinforced-Jumper-Wire-Set_2229191.html) or [Amazon](https://www.amazon.com/Solderless-Flexible-Breadboard-Jumper-Arduino/dp/B00ARTWJ44/ref=pd_lpo_328_lp_t_4?ie=UTF8&psc=1&refRID=N9HAJ64FXQ5JZV55JGX3) or [Adafruit](https://www.adafruit.com/product/759)
 
 - _Output_ devices for your projects: LEDs, speakers, motors, etc.
@@ -114,9 +114,7 @@ This class should be both fun and intense. It’s most fun when you enjoy what y
 
 - _Laptop_ (Windows, Linux, or Macintosh)
 
-Many vendors grant discounts for educational purposes so ask before you
-purchase. I encourage you to organize a group purchase to save on shipping
-fees, but do so immediately so you have the equipment on hand.
+Many vendors grant discounts for educational purposes so ask before you purchase. I encourage you to organize a group purchase to save on shipping fees, but do so immediately so you have the equipment on hand.
 
 The code ADAEDU may be good for 10% educational discount at Adafruit.  
 
