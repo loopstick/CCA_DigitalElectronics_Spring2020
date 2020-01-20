@@ -36,6 +36,7 @@ MUSIC -
 - [Sound compass](https://create.arduino.cc/projecthub/touchmysound/automatizing-percussion-with-solenoids-the-sound-compass-ce30b5?ref=tag&ref_id=art&offset=46)
 - [Advanced Arduino Sound Synthesis](https://makezine.com/projects/make-35/advanced-arduino-sound-synthesis/)
 - [Mozzi audio synthesis library for Arduino](https://sensorium.github.io/Mozzi/) - Looks pretty useful
+- [Teensy Euclidian Sequencer](https://forum.pjrc.com/threads/53953-queued-Teensy-midi-Euclidean-sequencer)
 
 
 
