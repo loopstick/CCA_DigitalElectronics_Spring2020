@@ -141,15 +141,12 @@ __The schedule is subject to change__
 - Interests and goals
 - Review schedule and syllabus: <https://github.com/loopstick/CCA_DigitalElectronics_Spring2020/>
 - Lecture
-  - Electronics Basics
-    - circuits: complete, open, closed, and short
-    - water analogy
-    - voltage, current, resistance, and power
-    - metric prefixes
+	- Design Process
+	- Arduino project examples
 - Hands-on activity
   - [Arduino Tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md)
 	  - <https://github.com/loopstick/ArduinoTutorial/blob/master/README.md>
-  - Lady Ada's [Learn Arduino Lesson #0](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/intro) [tour](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/take-a-tour) is a great place to start.
+  - Lady Ada's [Learn Arduino Lesson #0](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/intro) [tour](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/take-a-tour) 
 - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses)
   - <https://github.com/loopstick/ResourcesForClasses>
 
@@ -166,6 +163,11 @@ __The schedule is subject to change__
   - Review schedule
   - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses)
   - Lecture
+	  - Electronics Basics
+		  - circuits: complete, open, closed, and short
+		  - water analogy
+		  - voltage, current, resistance, and power
+		  - metric prefixes (if necessary)
     - Ohm's Law
       - https://www.youtube.com/watch?v=-mHLvtGjum4   
       - https://itp.nyu.edu/physcomp/videos/videos-electricity/   
