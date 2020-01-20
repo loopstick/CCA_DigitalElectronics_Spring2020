@@ -143,12 +143,13 @@ __The schedule is subject to change__
 - Lecture
 	- Design Process
 	- Arduino project examples
+	- Lady Ada's [Learn Arduino Lesson #0](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/intro) [tour](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/take-a-tour)
+ - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses)
+  - <https://github.com/loopstick/ResourcesForClasses>
 - Hands-on activity
   - [Arduino Tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md)
 	  - <https://github.com/loopstick/ArduinoTutorial/blob/master/README.md>
-  - Lady Ada's [Learn Arduino Lesson #0](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/intro) [tour](https://learn.adafruit.com/ladyadas-learn-arduino-lesson-number-0/take-a-tour) 
-- Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses)
-  - <https://github.com/loopstick/ResourcesForClasses>
+
 
 - *Homework*
   - Review the Basic Arduino [tutorial](https://github.com/loopstick/ArduinoTutorial/blob/master/README.md) we did in class.
