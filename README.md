@@ -1,12 +1,12 @@
-## Digital Electronics at California College of the Arts, Spring 2019
+## Digital Electronics at California College of the Arts, Spring 2020
 
 ### Syllabus
 
-* Title: IxD Foundations: Digital Electronics - DESGN-625-01
-* Class: Thursdays 8:00am - 11:00am, Room 107 SF Main (SF Hybrid Lab)
+* Title: IxD Foundations: Digital Electronics - DESGN-625-1
+* Class: Friday 8:00am - 11:00am, Room 107 SF Main (SF Hybrid Lab)
 * Instructor: Dr. Sudhu Tewari <stewari@cca.edu>
 * Office hours: 
-	* Thursdays 11:00am - 12:00pm, Monday 11:00am-12:00pm
+	* Friday 11:00am - 12:00pm
 	* at other times by appointment
 
 #### Goals
@@ -22,7 +22,7 @@ The goal of this class is to teach you how to design, build, and debug digital e
 
 #### Github and Class Repository
 We will be using a cloud service called Github. Our repository is at
-https://github.com/loopstick/CCA_DigitalElectronics_Spring2019
+https://github.com/loopstick/CCA_DigitalElectronics_Spring2020
 
 The class repository will be used to assign homework and reading assignments, and will contain useful code, libraries, and links to other resources. Github allows you to receive email updates when a repository changes — take advantage of this feature!
 
@@ -33,7 +33,6 @@ No textbook is required, but there are many good online references and a few goo
 
 #### Prerequisites
 * Basic algebra. You should be comfortable with simple equations,manipulating numbers, fractions, solving for variables, and the engineering prefixes (micro, milli, kilo, mega, etc.)
-* Some understanding of geometry will also be helpful.
 
 #### Requirements and Expectations
 * Always bring your computer to class. If you don’t have a computer, check one out from the Media Center. You will need a computer to participate, and your grade will be negatively affected if you don’t bring one.
@@ -50,13 +49,12 @@ CCA says:
 > Students with disabilities, including disabilities that are not clearly evident like chronic diseases or learning disabilities are
 encouraged to notify their instructor after class or during office hours. CCA will make reasonable accommodations for persons with > documented disabilities. Students should contact Suzanne Raffeld, Director of Access and Wellness Services (email: sraffeld@cca.edu; phone: 510.594.3775), to answer any questions or for assistance. For more information, consult CCA's webpage at: http://www.cca.edu/students/resources/disability.
 
-I want you to succeed in this class. Please make use of the Hybrid Lab coaches, the Learning Resource Center, and talk to me if you feel you are struggling with the material — I can help you do better in this class, but only if you let me know you need help.
+**I want you to succeed in this class!** Please make use of the Hybrid Lab coaches, the Learning Resource Center, and talk to me if you feel you are struggling with the material — I can help you do better in this class, but only if you let me know you need help.
 
 #### Class Format
 Sessions will be a mix of lectures, guided labs, and independent work time.
 Homework will require research, analysis, and experimentation.
-Engineering always takes more time than you think — please make sure to
-give yourself enough time!
+Engineering always takes more time than you think — please make sure to give yourself enough time!
 
 #### Grading
 I will consider the various components of the class in roughly the following proportions:
@@ -137,7 +135,7 @@ trade with other students (or the larger maker community) for parts that you do 
 ### Schedule
 __The schedule is subject to change__
 
-### Week 1: Thursday, January 24, 2019
+### Week 1: Friday, January 24, 2020
 ## Introductions: Administravia and Arduino
 - Interests and goals
 - Review schedule and syllabus: <https://github.com/loopstick/CCA_DigitalElectronics_Spring2019/>
@@ -159,7 +157,7 @@ __The schedule is subject to change__
   - Order the required equipment so you can have your very own Arduino, breadboard, etc.
   - Create your Github repository using [this guide](https://github.com/zamfi/github-guide) and email me the URL to your repository (stewari@cca.edu)
 
-### Week 2: Thursday, January 31, 2019
+### Week 2: Thursday, January 31, 2020
 ## OUTPUT: Ohm's Law and Electronic Components
   - Review schedule
   - Resources: See the Arduino resources [here:](https://github.com/loopstick/ResourcesForClasses) 
@@ -193,9 +191,9 @@ __The schedule is subject to change__
     - Complex interactions
     - Example
       - AnalogInput modified to work without using delay():
-      [AnalogInputWithoutDelay](https://github.com/loopstick/CCA_DigitalElectronics_Spring2019/blob/master/examples/AnalogInputWithoutDelay/AnalogInputWithoutDelay.ino)
+      [AnalogInputWithoutDelay](https://github.com/loopstick/CCA_DigitalElectronics_Spring2020/blob/master/examples/AnalogInputWithoutDelay/AnalogInputWithoutDelay.ino)
 
-### Week 3: Thursday, February 7, 2019
+### Week 3: Thursday, February 7, 2020
 ## INPUT: Sensors and multi-tasking
 - Homework review
   - sensors
@@ -230,7 +228,7 @@ __The schedule is subject to change__
 	   - Read about a few common sensors in the [Adafruit Sensors guide](http://www.ladyada.net/learn/sensors/) 
            - Describe (briefly) what you've learned in your Github READ.md file.
 
-### Week 4: Thursday, February 14, 2019
+### Week 4: Thursday, February 14, 2020
 - present inspirational projects (homework from Week 2)
 - talk about sensors!
 - Review midterm project proposals
@@ -252,7 +250,7 @@ __The schedule is subject to change__
       - [Sparkfun: How to use a Multimeter](https://learn.sparkfun.com/tutorials/how-to-use-a-multimeter)
     - troubleshooting basics
       - [Troubleshooting](https://www.arduino.cc/en/guide/troubleshooting)
-      - [Debugging](https://github.com/loopstick/CCA_DigitalElectronics_Spring2019/blob/master/Debugging.md) by Michael Shiloh
+      - [Debugging](https://github.com/loopstick/CCA_DigitalElectronics_Spring2020/blob/master/Debugging.md) by Michael Shiloh
       - more [Debugging](https://web.archive.org/web/20170823180125/http://teachmetomake.com/wordpress/debugging-circuits) by Michael Shiloh
     - Input and Output ranges
       - math and scaling
@@ -294,7 +292,7 @@ __The schedule is subject to change__
 				  are also nice for creating schematics.
   
 
-### Week 5: Thursday, February 21, 2019
+### Week 5: Thursday, February 21, 2020
 - Review midterm project ideas
 - Hands-on activity: 
   - work on Midterm Projects!
@@ -311,7 +309,7 @@ __The schedule is subject to change__
 	      - Hand drawn is fine.
 	      - [fritzing](http:fritzing.org) and [circuit.io](https://www.circuito.io/) are also nice for creating schematics.
 
-### Week 6: Thursday, February 28, 2018 (President's day - but no holiday - classes held)
+### Week 6: Thursday, February 28, 2020 
 - Workshop session - work on your Midterm Project!
 - *Homework*
   - Work on your Midterm project – Due week 8 !
@@ -319,9 +317,7 @@ __The schedule is subject to change__
        - email me if you have questions!
 
 
-### Week 7: Thursday, March 7, 2019
-- Guest lecture: 9am
-  - Scott Kildall: https://kildall.com/)
+### Week 7: Thursday, March 7, 2020
 - Workshop session 
   - work on your Midterm Project!
 - Fritzing demonstration
@@ -355,7 +351,7 @@ __The schedule is subject to change__
     - schematic showing the relevant connections from Arduino to sensors and output devices: hand-drawn or [Fritzing](http:fritzing.org)
   - Documenting your project by creating an Instructable would be fantastic!! 
  
-### Week 8: Thursday, March 14, 2019
+### Week 8: Thursday, March 14, 2020
 #### Midterm Projects DUE!!
 - Midterm Project presentations and critique
 - Evaluation feedback
@@ -397,7 +393,7 @@ __The schedule is subject to change__
       - familiarize yourself with Fritzing (breadboard and PCB modes), this is a great way to create an easy to share bundle of your hardware and code.
     
 
-### Week 9: Thursday, March 21, 2019
+### Week 9: Thursday, March 21, 2020
 - Homework review
 #### Midterm Projects Critique (postponed from last week) 8:30 - 9:50am
 
@@ -443,7 +439,7 @@ __The schedule is subject to change__
 			- Unused variables and statements should be removed
 		- You will be graded on these points
 
-### Spring Break: Thursday, March 28, 2019
+### Spring Break: Thursday, March 28, 2020
 - Research, build mock-ups, test ideas and concepts
   - If you get bored on break:
     - Read the __Classes and Objects__ resources on our [resources](https://github.com/loopstick/resourcesForClasses) page
@@ -462,7 +458,7 @@ __The schedule is subject to change__
       - http://www.thebox.myzen.co.uk/Tutorial/Arrays.html
       - https://www.arduino.cc/en/Tutorial/Arrays
 
-### Week 10: Thursday, April 4, 2019
+### Week 10: Thursday, April 4, 2020
 - Quick project status reports
 - Lecture 
   - [For Loops](https://www.arduino.cc/reference/en/language/structure/control-structure/for/)
@@ -478,7 +474,7 @@ __The schedule is subject to change__
 	(preferably the part you are most concerned about) 
 	and demonstrate it in class next week
 
-### Week 11: Thursday, April 11, 2019
+### Week 11: Friday, April 10, 2020
 - Critique working mock-ups 
 
 - review
@@ -500,13 +496,13 @@ __The schedule is subject to change__
 		- Simplify your project if necessary
 		- If it is too simple you will have one week to add complexity
 
-### Week 12: Thursday, April 18, 2019
+### Week 12: Friday, April 17, 2020
 - continue working on your project
 
-### Week 13: Thursday, April 25, 2019
+### Week 13: Friday, April 24, 2020
 - Demonstrate working minimal viable project (MVP)
 
-### Week 14: Thursday, May 2, 2019
+### Week 14: Friday, May 1, 2020
 - Review end of semester schedule 
 - Review Interface Show spreadsheet
 - Interface Show Plaque
@@ -515,7 +511,7 @@ __The schedule is subject to change__
 - Work, Debug, and get help
 
 ### Homework: Project writeup
-- Project writeup due May 9 at 9am, all on Github
+- Project writeup due May 8 at 9am, all on Github
 	- Describe goals of project briefly
 	- Describe how, from a technical point of view, your choice of hardware
 		and software achieves that goal
@@ -531,14 +527,13 @@ __The schedule is subject to change__
 			commented out may remain)
 	- Final Project extra credit: Create an Instructable documenting your project
 
-### Week 15: Thursday, May 9, 2019
+### Week 15: Friday, May 8, 2020
 - No class - End of Year Reviews for Year Zero and Year One
 
-## Thursday, May 9, 2019, 9am - Project Writeup due
+## Friday, May 8, 2020, 9am - Project Writeup due
 
 
-
-## Saturday, May 11: Interface Show!!!!
+## Saturday, May 9: Interface Show!!!!
 	7PM to 9:30PM
 	Oliver Art Center
 	California College of the Arts
@@ -546,6 +541,25 @@ __The schedule is subject to change__
 
 
 ## Student Repositories
+CCA DigitalElec Spring2020 GitHub Repositories
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ - 
+ -  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
 CCA DigitalElec Spring2019 GitHub Repositories
 - [Cassie](https://github.com/CassieMKY)
 - [Echo](https://github.com/Tingyubaba/Electronic-Design-625-1/)
