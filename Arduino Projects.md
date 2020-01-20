@@ -3,11 +3,12 @@ Arduino Project Hub: <https://create.arduino.cc/projecthub>
 Hackster.io: <https://www.hackster.io/>
 
 
-[Top 10 best Arduino projects](https://www.youtube.com/watch?v=39YUvCqxPSs)
 
-[Instructables: 64 Arduino Projects](https://www.instructables.com/id/Arduino-Projects/?utm_source=newsletter&utm_medium=email)
+ - [Top 10 best Arduino projects](https://www.youtube.com/watch?v=39YUvCqxPSs)
 
-[143 Arduino Art Projects](https://create.arduino.cc/projecthub/projects/tags/art)
+ - [Instructables: 64 Arduino Projects](https://www.instructables.com/id/Arduino-Projects/?utm_source=newsletter&utm_medium=email)
+
+ - [143 Arduino Art Projects](https://create.arduino.cc/projecthub/projects/tags/art)
 
 [Word Clock controlled by 114 servos](https://www.instructables.com/id/Word-Clock-Controlled-by-114-Servos/)
 
