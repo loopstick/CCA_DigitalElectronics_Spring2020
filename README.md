@@ -114,8 +114,8 @@ This class should be both fun and intense. It’s most fun when you enjoy what y
 - _Laptop_ (Windows, Linux, or Macintosh)
 
 Many vendors grant discounts for educational purposes so ask before you purchase. I encourage you to organize a group purchase to save on shipping fees, but do so immediately so you have the equipment on hand.
-
-The code ADAEDU may be good for 10% educational discount at Adafruit.  
+ - The code ADAEDU may be good for 10% educational discount at Adafruit.  
+ - Mentioning that you are a student of mine may get you a discount at Al Lasher’s.
 
 Local stores that should carry all these are:
 * [Jameco](http://www.jameco.com) in Belmont, just south of the SFO airport. Order online and pick up same day.
@@ -136,6 +136,7 @@ trade with other students (or the larger maker community) for parts that you do 
 ### Schedule
 __The schedule is subject to change__
 
+[comment] 
 ### Week 1: Friday, January 24, 2020
 ## Introductions: Administravia and Arduino
 - Interests and goals
