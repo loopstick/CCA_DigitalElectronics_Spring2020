@@ -136,8 +136,6 @@ trade with other students (or the larger maker community) for parts that you do 
 ### Schedule
 __The schedule is subject to change__
 
-[comment]<>
-
 ### Week 1: Friday, January 24, 2020
 ## Introductions: Administravia and Arduino
 - Interests and goals
