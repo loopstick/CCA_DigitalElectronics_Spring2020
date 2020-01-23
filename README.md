@@ -445,7 +445,7 @@ __The schedule is subject to change__
 			- Unused variables and statements should be removed
 		- You will be graded on these points
 
-### Spring Break: Friday, March 27, 2020
+### Spring Break: No Class - Friday, March 27, 2020
 - Research, build mock-ups, test ideas and concepts
   - If you get bored on break:
     - Read the __Classes and Objects__ resources on our [resources](https://github.com/loopstick/resourcesForClasses) page
@@ -505,10 +505,10 @@ __The schedule is subject to change__
 ### Week 12: Friday, April 17, 2020
 - continue working on your project
 
-### Week 13: Friday, April 24, 2020
+### Week 13: Friday, April 24, 2020 - PENULTIMATE CLASS!
 - Demonstrate working minimal viable project (MVP)
 
-### Week 14: Friday, May 1, 2020
+### Week 14: Friday, May 1, 2020 - LAST CLASS!
 - Review end of semester schedule
 - Review Interface Show spreadsheet
 - Interface Show Plaque
@@ -535,9 +535,10 @@ __The schedule is subject to change__
 
 ### Week 15: Friday, May 8, 2020
 - No class - End of Year Reviews for Year Zero and Year One
+- Final project write-up due - all on GitHub
+- load-in for Interface show
 
-## Friday, May 8, 2020, 9am - Project Writeup due
-
+## Friday, May 8, 2020, 9am - Final Project Writeup due!
 
 ## Saturday, May 9: Interface Show!!!!
 	7PM to 9:30PM
