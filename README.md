@@ -464,7 +464,7 @@ __The schedule is subject to change__
       - http://www.thebox.myzen.co.uk/Tutorial/Arrays.html
       - https://www.arduino.cc/en/Tutorial/Arrays
 
-### Week 10: Friday, April 4, 2020
+### Week 10: Friday, April 3, 2020
 - Quick project status reports
 - Lecture
   - [For Loops](https://www.arduino.cc/reference/en/language/structure/control-structure/for/)
@@ -560,11 +560,6 @@ CCA DigitalElec Spring2020 GitHub Repositories
  -
  -
  -  
-
-
-
-
-
 
 
 CCA DigitalElec Spring2019 GitHub Repositories
