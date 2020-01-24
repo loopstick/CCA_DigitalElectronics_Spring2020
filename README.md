@@ -163,6 +163,7 @@ __The schedule is subject to change__
   - Check out any equipment you need from the Hybrid Lab.
   - Order the required equipment so you can have your very own Arduino, breadboard, etc.
   - Create your Github repository using [this guide](https://github.com/zamfi/github-guide) and email me the URL to your repository (stewari@cca.edu)
+    - post your favorite Processing sketch in a 'Week1' folder on your GitHub repository
 
 ### Week 2: Friday, January 31, 2020
 ## OUTPUT: Ohm's Law and Electronic Components
