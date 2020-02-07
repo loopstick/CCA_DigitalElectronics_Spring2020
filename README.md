@@ -214,6 +214,7 @@ __The schedule is subject to change__
 - lecture
   - multi-tasking
   - Blink without Delay
+  - RGB LEDs
 - Hands-on activity:
   - Blink without Delay: Turn LEDs on and off without using delay!!
   - poll a sensor continually while performing other tasks
