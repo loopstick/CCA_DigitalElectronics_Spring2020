@@ -215,6 +215,7 @@ __The schedule is subject to change__
   - multi-tasking
   - Blink without Delay
   - RGB LEDs
+    - [TinkerCad RGB example](https://www.tinkercad.com/things/1gG8sPA9bJv)
 - Hands-on activity:
   - Blink without Delay: Turn LEDs on and off without using delay!!
   - poll a sensor continually while performing other tasks
