@@ -552,20 +552,17 @@ __The schedule is subject to change__
 
 ## Student Repositories
 CCA DigitalElec Spring2020 GitHub Repositories
- - [Xuan](https://github.com/xuanxuan9520/Digital-Elctr-hw-1)
+ - [Bilan](https://github.com/Bilan-Liu/CCA_Mechatronics_SP20_HW1)
+ - [Ryan](https://github.com/RyanHHS/Digital-Eletronics)
+ - [Junyu](https://github.com/ShandShen/Junyu-Shen.git)
  - [Tianbai ](https://github.com/Tianbaidun0-0/Tianbai-Dun-Digital-Electronic)
  - [Sissi](https://github.com/xuxin0105/Sissi_CCA_Digital-Electronics_2020)
- - [Bilan](https://github.com/Bilan-Liu/CCA_Mechatronics_SP20_HW1)
+ - [Xuan](https://github.com/xuanxuan9520/Digital-Elctr-hw-1)
+ - [Yutong](https://github.com/atiooo/hw1)
+ - Zitong
+ - [Zoe](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020)
  - [Rio](https://github.com/riojiangTDD/Riojiang_CCA_DigitalElectronics_2020)
- -
- -
- -
- -
- -
- -
- -
- -
- -  
+
 
 
 CCA DigitalElec Spring2019 GitHub Repositories
