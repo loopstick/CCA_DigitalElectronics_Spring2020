@@ -555,7 +555,7 @@ CCA DigitalElec Spring2020 GitHub Repositories
  - [Bilan](https://github.com/Bilan-Liu/CCA_Mechatronics_SP20_HW1)
  - [Ryan](https://github.com/RyanHHS/Digital-Eletronics)
  - [Junyu](https://github.com/ShandShen/Junyu-Shen.git)
- - [Tianbai ](https://github.com/Tianbaidun0-0/Tianbai-Dun-Digital-Electronic)
+ - [Tianbai ](https://github.com/Tianbaidun0-0/Tianbai_CCA_Digital_Electronics_2020)
  - [Sissi](https://github.com/xuxin0105/Sissi_CCA_Digital-Electronics_2020)
  - [Xuan](https://github.com/xuanxuan9520/Digital-Elctr-hw-1)
  - [Yutong](https://github.com/atiooo/hw1)
