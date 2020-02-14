@@ -1,8 +1,10 @@
 
 ![2LDR_DirectionSense](2LDR_DirectionSense.gif)  
-
+  
+  
 This folder contains the circuit diagram and code to reproduce the functionality seen in the .gif above  
-
+  
+  
 ![2LDR_DirectionSense](2LDR_DirectionSense_circuit.jpg)  
 
 
