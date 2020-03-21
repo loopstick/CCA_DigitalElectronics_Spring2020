@@ -367,6 +367,7 @@ __The schedule is subject to change__
   - Documenting your project by creating an Instructable would be fantastic!!
 
 ### Week 8: Friday, March 13, 2020
+## POSTPONED for CORONAVIRUS PANDEMIC
 #### Midterm Projects Critique  8:30 - 9:50am
 - Evaluation feedback
   - Documentation and final project proposal review
