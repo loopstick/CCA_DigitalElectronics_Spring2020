@@ -366,191 +366,160 @@ __The schedule is subject to change__
     - schematic showing the relevant connections from Arduino to sensors and output devices: hand-drawn or [Fritzing](http:fritzing.org)
   - Documenting your project by creating an Instructable would be fantastic!!
 
+
 ### Week 8: Friday, March 13, 2020
-## POSTPONED for CORONAVIRUS PANDEMIC
-#### Midterm Projects Critique  8:30 - 9:50am
-- Evaluation feedback
-  - Documentation and final project proposal review
-- Lecture
-  - Frtizing!
-  - More Basics - review
-  	- Arduino Reference: https://www.arduino.cc/reference/en/
-  	- Sensors
-	  - Electronic Theory Review
-	    - Ohm's Law
-	    - LDR as voltage divider measured with multimeter
-	- Soldering circuits
-	- Examples
-	  - Resources: https://github.com/loopstick/ResourcesForClasses#inspiration-artists-movies-projects-etc
-	  - Instructables Arduino category: http://www.instructables.com/technology/arduino/
-	  - Make: https://makezine.com/projects/
-	- Debugging techniques
-	- Counting and modulo
-	- Arrays
-	- Edge detection
-	- Debouncing
+## CLASS POSTPONED for CORONAVIUS PANDEMIC
+- **Homework** due Friday March 13.
+  - Write a course and self-evaluation, email both to me (stewari@cca.edu) by end of day.
 
-- *Homework*
-  - Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/)
-      and think about whether the your project is doing something in a meaningful or unique way. Will someone want to play with your project for longer than 5 seconds? Why or why not?      
-  - Write a concept proposal for your final project
-    - Your final project can be a fully developed iteration of your midterm project incorporating "nice to have" functionality from the initial concept or additional functionality suggested by the first iteration.
+  			- Personal self-evaluation
+				- What have you learned?
+				- What are your goals for the rest of the semester?
+				- What obstacles will you face in achieving these goals?
+				- How do you plan to overcome those obstacles?
+				- How would you grade your vehicle?
+				- What would you have done differently if you had to do the vehicle assignment over again?
 
-		OR
 
-    - a new project, substantially more complex than the exercises you've done so far.
+			- Course evaluation
+				- What further would you like to learn in this course?
+				- What would you like to change in the course material?
+				- What would you like to change in the way the material is delivered?
+				- What would you add to this class?
+				- What would you remove from this class?			
 
-      - Upload this proposal to your Github repository in a new folder called "FinalProject"
-      - Create a very clear project description identifying the Minimal Viable Project and optional add-ons
-      - Include flow charts, block diagrams, and/or schematic diagrams that show the relevant electrical connections and flow
-      - Plan out desired functionality with written descriptions, flow-charts, and/or pseudo-code
-      - familiarize yourself with Fritzing (breadboard and PCB modes), this is a great way to create an easy to share bundle of your hardware and code.
 
 
 ### Week 9: Friday, March 20, 2020
-- Final Project Proposals: individual meetings
-    - 10:00
-    - 10:30
-    - 10:40
-    - 11:00
-    - 11:20
-    - 11:40
 
-- Lecture
-  - use the Arduino Language [Reference](https://www.arduino.cc/reference/en/)!
-    - [setup()](https://www.arduino.cc/reference/en/language/structure/sketch/setup/)
-    - [loop()](https://www.arduino.cc/reference/en/language/structure/sketch/loop/)
-    - [functions](https://www.arduino.cc/en/Reference/FunctionDeclaration)
-  - Control Structures
-    - [if](https://www.arduino.cc/reference/en/language/structure/control-structure/if/)
-- Sensors:
-  - What do you want to know? Do some research and ask specific questions.
-- Start/keep working:
-  - Research, mock-ups, test ideas and concepts
-- Demonstration: 	
-  - Fritzing and Othermill
-- *Homework*
-	- Work on the Fritzing assignment from last week. Make a new folder called
-		"Fritzing" in your github repository and upload the .fzz file of your
-		circuit into that folder
-	- Final project proposals and prototype
-		- Build a prototype to verify the most difficult part of your project
-		- Research
-		- Order or check out equipment
-		- Create a very clear project description identifying the Minimal Viable Project and optional add-ons
-		- Include flow charts, block diagrams, and pseudo-code
-	- Improve the quality of your work on Github
-		- Well organized Github folders, good folder and file names
-		- Good descriptions for each assignment
-		- Programs should be:
-			- Well organized
-			- Properly indented
-			- Must include meaningful comments
-			- Unused variables and statements should be removed
-		- You will be graded on these points
+## CLASS CANCELLED for CORONAVIUS PANDEMIC
+
+ - Continue working on your midterm project
+ - wash your hands
+ - be healthy, happy, and safe
+ 
+- __Homework__
+  - Improve the quality of your work on Github
+    - Well organized Github folders, good folder and file names
+    - Good descriptions for each assignment
+      - Programs should be:
+	- Well organized
+	- Properly indented
+	- Must include meaningful comments
+	- Unused variables and statements should be removed
+  - acquire parts for your Final Project if you haven't already!
+    - Order online ~or check out equipment from the Hybrid Lab~
+  - research aspects of your Final Project that you need more information about.
+
 
 ### Spring Break: No Class - Friday, March 27, 2020
-- Research, build mock-ups, test ideas and concepts
-  - If you get bored on break:
-    - Read the __Classes and Objects__ resources on our [resources](https://github.com/loopstick/resourcesForClasses) page
-  & Arduino the Object Oriented Way: http://paulmurraycbr.github.io/ArduinoTheOOWay.html
-  - Also
-    - Edge detection:
-      - https://www.arduino.cc/en/Tutorial/StateChangeDetection
-      - http://www.ladyada.net/learn/arduino/lesson5.html
-      - https://programmingelectronics.com/tutorial-18-state-change-detection-and-the-modulo-operator-old-version/
-    - Debouncing:
-      - https://www.arduino.cc/en/tutorial/debounce
-    - Arrays:
-      - https://www.tutorialspoint.com/arduino/arduino_arrays.htm>
-      - https://programmingelectronics.com/tutorial-13-how-to-use-arrays-with-arduino/
-      - https://startingelectronics.org/software/arduino/learn-to-program-course/17-arrays/
-      - http://www.thebox.myzen.co.uk/Tutorial/Arrays.html
-      - https://www.arduino.cc/en/Tutorial/Arrays
 
-### Week 10: Friday, April 3, 2020
-- Quick project status reports
-- Lecture
-  - [For Loops](https://www.arduino.cc/reference/en/language/structure/control-structure/for/)
-    - [For Loop Iteration Tutorial](https://www.youtube.com/watch?v=bMsT8FeMQ-k)  
-  - Soldering:
-    - solid vs. stranded core wire - when to use
-    - [Adafruit Guide to Excellent Soldering](https://learn.adafruit.com/adafruit-guide-excellent-soldering?view=all)
-  - Fritzing review
-  - Othermill demonstration!
-- Work: test, repair, iterate
-- *Homework*:
-  - Build any working part of your project
-	(preferably the part you are most concerned about)
-	and demonstrate it in class next week
+ - Continue working on your midterm project
+ - stay home
+ - wash your hands
+ - be healthy, happy, and safe
+ 
+
+## Week 10: Friday, April 3, 2020
+
+#### Midterm Project Critique 
+- midterm project critique via Zoom.
+ - check your email for the meeting invitation
+ - make sure your gitHub documentation is complete and elegant!! 
+
+- Lecture:
+  - [Debugging/Troubleshooting](https://github.com/loopstick/CCA_DigitalElectronics_Spring2020/blob/master/Debugging.md)
+    - also [Debugging](https://github.com/loopstick/ResourcesForClasses#debugging) on our resources page
+    
+**Homework** due next week: April 10 (or sooner).
+  - Write a concept proposal for your final project which must be substantially more complex than the exercises we've done in class.	  	- Read [Physical Computing’s Greatest Hits (and misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and think about whether the your project is doing something in a meaningful or unique way. Will someone want to play with your project for longer than 5 seconds? Why or why not?
+ 	- revise your proposal accordingly
+    - Upload this proposal to your Github repository in a new folder called "FinalProject"
+    	- Create a very clear project description identifying the Minimal Viable Project and optional add-ons
+    	- Include flow charts, block diagrams, and/or schematic diagrams that show the relevant electrical connections and flow
+	  - familiarize yourself with Fritzing (if you haven't already), this is a great way to create an easy to share bundles of your circuit and code.
+    	- Plan out desired functionality with written descriptions, flow-charts, and/or pseudo-code
+
 
 ### Week 11: Friday, April 10, 2020
-- Critique working mock-ups
 
-- review
-  - [if](https://www.arduino.cc/reference/en/language/structure/control-structure/if/)
+- Individual Final Project Proposal meetings
+    		12:00 -  
+		12:15 -  
+		12:30 -  
+		12:45 -   
+		1:00 -   
+		1:15 -   
+		1:30 -   
+		1:45 -  
+		2:00 -  
+		2:15 -  
+		2:30 -  
+		2:45 -  
+		3:00 -  
+- Lecture
+  - Fritzing and Othermill [tutorial](https://web.archive.org/web/20160906220300/http://teachmetomake.com/wordpress/how-to-design-a-circuit-board-in-fritzing-and-mill-it-on-the-othermill)
+  - Sensors (accelerometer, sound) and LCD display
+    - sensors
+    - complex program
+    - combining examples
+    - functions
+  - [Construction techniques](https://github.com/loopstick/ResourcesForClasses/tree/master/ConstructionTechniques)
+    - Prototyping shields
+    - When is it OK to use solid core wires?
+    - When to use stranded wire...
+    - Mounting modules using headers
 
-- Control Structures
-  - [break](https://www.arduino.cc/reference/en/language/structure/control-structure/break/)
-  - [switch case](https://www.arduino.cc/reference/en/language/structure/control-structure/switchcase/)
-  - Interrupts
-    - [attach interrupt](https://www.arduino.cc/reference/en/language/functions/external-interrupts/attachinterrupt/)
-
-- *Homework*
-	- Read [Physical Computing’s Greatest Hits (and
-		misses)](http://www.tigoe.net/blog/category/physicalcomputing/176/) and
-		think about whether the your project is doing something in a meaningful or
-		unique way. Will someone want to play with your project for longer than
-		5 seconds? Why or why not?
-	- Minimal Viable Project is due April 253
-		- Simplify your project if necessary
-		- If it is too simple you will have one week to add complexity
+- **Homework:**
+	- Build any working part of your project(preferably the part you are most concerned about) and demonstrate it in class next week
 
 ### Week 12: Friday, April 17, 2020
-- continue working on your project
+- Critique working mock-up
+- Work week.
+- Homework
+  - Minimal Viable Project is due next week!
+    - Simplify your project if necessary
+    - If it is too simple you will have one week to add complexity
+- Homework: __Working__ minimal viable project due week 14: May1
 
 ### Week 13: Friday, April 24, 2020 - PENULTIMATE CLASS!
-- Demonstrate working minimal viable project (MVP)
+- Demonstrate working minimal viable project
+- Work on final project
+
 
 ### Week 14: Friday, May 1, 2020 - LAST CLASS!
-- Review end of semester schedule
+- Course evaluations
+- Review schedule
 - Review Interface Show spreadsheet
-- Interface Show Plaque
 - Review final project writeup
 - Final project critique
-- Work, Debug, and get help
 
 ### Homework: Project writeup
-- Project writeup due May 8 at 9am, all on Github
-	- Describe goals of project briefly
-	- Describe how, from a technical point of view, your choice of hardware
-		and software achieves that goal
-	- Accurate schematic
-	- Parts list (major or unique parts, not LEDs, wire, etc.)
-	- A few pictures of overall project plus some close ups of the electronics
-		and any mechanism (cellphone is fine)
-	- A short video (cellphone is fine) of the operational project
-	- Program(s) must be well commented
-		- Each variable must have a meaningful name
-		- Each section (function, code block, loop, whatever) must be explained
-		- All unused variables and code must be removed (debugging code
-			commented out may remain)
-	- Final Project extra credit: Create an Instructable documenting your project
+- Project writeup due May 8 at 9am, all on Github!
+  - Describe goals of project briefly
+  - Describe how, from a technical point of view, your choice of hardware and software achieves that goal
+  - Accurate schematic
+  - Parts list (major or unique parts, not LEDs, wire, etc.)
+  - A few pictures of overall project plus some close ups of the electronics and any mechanism
+  - A short video of the operational project
+  - Program(s) must be well commented
+    - Each variable must have a meaningful name
+    - Each section (function, code block, loop, whatever) must be explained
+    - All unused variables and code must be removed (commented out debug code may remain)
 
-### Week 15: Friday, May 8, 2020
-- No class - End of Year Reviews for Year Zero and Year One
-- Final project write-up due - all on GitHub
+### Week 15: Friday, May 8, 2020 - Year Zero Reviews - no class
+- No class;  End of Year Reviews for Year Zero and Year One
+- Project write-up DUE! - post on GitHub
 - load-in for Interface show
 
 ## Friday, May 8, 2020, 9am - Final Project Writeup due!
 
-## Saturday, May 9: Interface Show!!!!
-	7PM to 9:30PM
-	Oliver Art Center
-	California College of the Arts
-	5212 Broadway, Oakland
-
-
+## Saturday, May 9: Interface Show - CANCELLED!!!
+ - We hope to find an online platform to host this show. 
+   - Stay tuned!
+	
+	
+	
 ## Student Repositories
 CCA DigitalElec Spring2020 GitHub Repositories
  - [Bilan](https://github.com/Bilan-Liu/CCA_Mechatronics_SP20_HW1)
