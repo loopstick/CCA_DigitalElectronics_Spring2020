@@ -529,7 +529,7 @@ CCA DigitalElec Spring2020 GitHub Repositories
  - [Sissi](https://github.com/xuxin0105/Sissi_CCA_Digital-Electronics_2020)
  - [Xuan](https://github.com/xuanxuan9520/Digital-Elctr-hw-1)
  - [Yutong](https://github.com/atiooo/hw1)
- - Zitong
+ - [Zitong](https://github.com/zitong113/zitong_CCA_D-igitalElectronics_Spring2020)
  - [Zoe](https://github.com/Ziyue-Yin/Ziyue-Yin-CCA-Digital-Electronic_2020)
  - [Rio](https://github.com/riojiangTDD/Riojiang_CCA_DigitalElectronics_2020)
 
